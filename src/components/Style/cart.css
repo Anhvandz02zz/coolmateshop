@@ -1,0 +1,22 @@
+Form.Control {
+    outline:  none;
+    border: none;
+    padding: 10px ;
+}
+.bill{
+    display: flex;
+    flex-direction: column;
+    gap:20px;
+}
+    .bill-child{
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+     
+    }
+    .title-cart{
+        color:#231f20;
+         margin-top: 20px;       
+         font-size: 30px;
+         font-weight: 500
+    }

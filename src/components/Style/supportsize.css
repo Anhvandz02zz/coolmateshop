@@ -1,0 +1,20 @@
+.supportsize{
+    position: relative;
+    z-index: 9000;
+    display: flex;
+}
+.box-size{
+position: absolute;
+right: 350px;
+width: 650px;
+top: -280px;
+height: 575px;
+background-color: red;
+}
+
+.suport-size{
+    cursor: pointer;
+    color: #2f5acf;
+    font-size: 14px;
+    font-weight: 500;
+}

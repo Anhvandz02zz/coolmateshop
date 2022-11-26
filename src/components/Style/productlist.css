@@ -1,0 +1,153 @@
+.type_product{
+    position: relative;
+    width: 100%;
+    margin: auto;
+}
+.text{
+    margin-top: 80px;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 700;
+    color:#231f20;
+    margin-bottom: 20px;
+}
+.srcimg{
+    border-radius: 10px;
+}
+.product-item{
+    position: relative;
+    margin-bottom: 20px;
+}
+.evaluate{
+    position: absolute;
+    font-weight: 600; 
+    display: flex;
+    margin-top: 10px;
+   justify-content: space-around;
+    
+}
+.evaluate-content{
+    display: flex;
+    margin-left: 5px;
+}
+.purchases{
+    color: blue;
+    font-size: 14px;
+    font-weight: 700;
+}
+.ok img{
+    width: 100%;
+}
+.btn-color{
+    width: 35px;
+    height: 20px;
+    margin: 0 5px;
+    border-radius: 16px;
+}
+.save{
+background-color:#b2292e;
+border-radius:5px;
+width: 80px;
+height: 20px;
+margin-top: 5px;
+float: right;
+}
+.save-content{
+    width: 80px;
+    color:#ffffff;
+    font-size: 10px;
+    display: flex;
+    height: 20px;
+    align-items: center;
+    justify-content: center;
+    margin-left: 5px;
+}
+.size{
+    position: relative;
+    margin-top: -40px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;    
+     overflow: hidden;
+     
+}
+.ok:hover .size-content{
+  transform: translateY(0%);
+ 
+} 
+.hover-size:hover > button{
+    background-color: #231f20;
+}
+.size-content{
+    width: 40px;
+    height: 40px;
+    outline: none;
+    border: none;
+    align-items: center;
+    background-color:#ffffff;
+    border-radius:16px;
+    display:flex;
+    font-size:14px;
+    font-weight:700;
+    justify-content: center;
+    line-height:21px; 
+    transform: translateY(100%);
+    transition: all 0.5s ease;
+}
+.color{
+    width: 200px;
+    display: flex;
+}
+.color button{
+    width: 40px;
+    border: none;
+    outline: none;
+    border-radius: 16px;
+    display: flex;
+    align-items: center;
+    background-color: #b2292e;
+    justify-content: center;
+    margin-left: 4px;
+    color: #231f20;
+    font-size: 700;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.detailproduct-text{
+color:#231f20;
+font-size:14px;
+font-weight:500;
+line-height:16.8px;
+margin:10px 3px;
+text-align:left;
+}
+.flex-price{
+display: flex;
+flex-direction:row-reverse;
+font-size:14px;
+justify-content:flex-end;
+line-height:21px;
+text-align:left;
+width: 300px;
+margin-left: 5px;
+}
+.price_1{
+color:#ff3102;
+font-size:14px;
+line-height:21px;
+margin:0px 14px 3px 0px;
+}
+.main_price{
+color:#c4c4c4;
+font-size:14px;
+text-decoration-line:line-through;
+line-height:21px;
+text-align:left;
+}
+.sale{
+font-size:14px;
+line-height:21px;
+text-align:lef;
+color: red;
+margin-left: 10px;
+}

@@ -1,0 +1,39 @@
+.collmate{
+    width: 100%;
+    top: 40px;
+    display: flex;
+    position: absolute;
+    justify-content: space-around;
+    display: none;
+    right: 0;
+    z-index: 1;
+    transition: all 2s ease;
+}
+li:hover .collmate{
+    display: block;
+    display: flex;
+    background-color: #fff;
+}
+.size-collmate{
+    width: 290px;
+}
+.collmate-namecoll{
+    color: #909090;
+    font-weight: 700;
+}
+.colmate-content{
+    color: black;
+    font-weight: 500;
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   font-size: 11px;
+   width: 250px;
+}
+.colmate-img{
+    margin-top: 40px;
+   
+}
+.colmate-img img{
+    width: 290px;
+    height: 200px;
+    border-radius: 10px;
+}

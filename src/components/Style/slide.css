@@ -1,0 +1,42 @@
+.slide
+{
+    margin: 0;
+    padding: 0;
+    height: 500px;
+    right: 0;
+}
+.slide img{
+    height: 600px;
+    width: 100%;
+}
+.btn-slide{
+ 
+    position: relative;
+    top: -60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-around;
+}
+.btn-slide a{
+    border: none;
+    outline: none;   
+    color: white;
+    display: flex;
+    align-items: center;
+     font-weight: 700;
+     justify-content: center;
+    width: 350px;
+   border: 1px solid white;
+    height: 45px;
+    text-decoration: none;
+    font-size: 13px;
+    border-radius: 16px;
+    transition: all 0.5s ease;
+}
+.btn-slide a:hover{
+    background-color:#ffffff;
+   border-color:#ffffff;
+color: #231f20;
+font-weight: 500;
+}

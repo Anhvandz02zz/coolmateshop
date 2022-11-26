@@ -1,0 +1,263 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300&family=Open+Sans:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300&family=Open+Sans:wght@500&display=swap');
+*{
+    top: 0;
+    margin: 0;
+    padding: 0;
+}
+li{
+    list-style: none;
+}
+.list-item li { 
+   height: 40px;
+   align-items: center;
+   margin-left: 20px;
+   font-size: 13px;
+   margin-top: 12px;
+}
+.list-item :hover li{
+    color: #909090;
+}
+.ok{
+   color: black;
+}
+.menu > p {
+    text-align: center;
+    font-size: 13px;
+    font-weight: 700;
+    line-height: 2;
+    background-color: #FFFF66;
+}
+
+/*  */
+.about-cart{
+    margin-bottom: 40px;
+    height: 500px;
+    display: flex;
+}
+.about-cart__content{
+    background-color: #FFFF66;
+    width: 48%;
+    position: relative;
+    justify-content: center;
+}
+.about-card__heading{
+    margin-top: 40px;
+    font-size: 54px;  
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+.about-card__description{
+  text-align: center;
+  margin-top: 60px;
+  font-size:14px ;
+font: optional;
+}
+.about-card__button a{
+    margin-top: 80px;
+    width: 150px;
+    background-color: #fff;
+    border-radius: 16px;
+    font-size: 17px;
+    font-weight: 500;
+    font-family: 'Times New Roman', Times, serif;
+    cursor: pointer;
+    outline: none;
+    border: none;
+    transition: all 0.4s ease;
+    margin-left: 60px;
+}
+.about-card__button:hover a {
+    background-color: #8e8e8e;
+}
+.about-cart__image{
+    width: 52%;
+    background-color: white;
+     border-radius: 26px;
+    margin-left: -40px;
+    z-index: 1000;
+    
+}
+.about-cart__image img{
+   background-image: white;
+    height: 500px;
+     margin-left: 200px;
+}
+/* Basic */
+.basic-text{
+    text-align:center;
+    font-size: 96px;
+    color:#231f20;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 0px 0px 8px;
+}
+.basic{
+    display: flex;
+    width: 100%;
+    justify-content: space-around; 
+}
+.basic-img img{
+   width: 20%px;
+   height: 350px;
+   animation-name: animation-basic;
+   animation-duration: 3s;
+}
+@keyframes animation-basic 
+  {
+    from {width: 0%;}
+    to {width: 100%;}
+  }
+  /* Experieces */
+  .experiences-link{
+    width: 100%;
+    position: relative;
+  }
+  .ex-btn{
+    margin-bottom: 20px;
+   text-align: center;
+  }
+  .ex-btn button {
+   background-color: #FFFF66;
+   border: none;
+   margin-top: 20px;
+   margin-bottom: 20px;
+   font-size: 15px;
+   width: 140px;
+   transition: all 0.5s ease;
+  }
+  .ex-btn-link {
+    color: #231f20;
+    font-size: 14px;font-weight: 500;
+    text-decoration: none;
+  }
+  .ex-btn button:hover {
+    background-color: #D3D3D3; 
+  }
+.card-ex{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+.ex-img img{
+    width: 320px;
+    justify-content: space-between;
+    height: 460px;
+}
+.ex-img img {
+    transition: transform .5s ease-in-out;
+  }
+  .ex-img:hover img {
+    transform: scale(0.9) ;
+  } 
+.ex-link{
+    position: absolute;
+    width: 280px;
+    background-color: white; 
+    border-radius: 26px;
+    top: 50%;
+    height: 40px;
+   margin: 0 20px;
+}
+.ex-link a {
+   color: #8e8e8e;
+   display: flex;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   font-size: 14px;
+   height: 40px;
+   align-items: center;
+   justify-content: center;
+}
+/* Join */
+.join{
+    margin-top: 20px;
+}
+
+.marquee {
+    height: 60px;
+    width: 100%;
+    background-color: #231f20;
+    overflow: hidden;
+    position: relative;
+    border-radius: 16px;
+  } 
+  .marquee div {
+    display: block;
+    margin-top: 10px;
+    width: 200%;
+    height: 30px;
+    position: absolute;
+    overflow: hidden;
+    justify-content: center;
+    align-items: center;
+    animation: marquee 10s linear infinite;
+  }
+  .marquee span {
+    float: left;
+    width: 50%;
+    color: white;
+    font-size: 25px;
+    font-weight: 600;
+  }
+  @keyframes marquee {
+    0% { left: 0; }
+    100% { left: -100%; }
+  }
+  .marquee button{
+    position: absolute;
+    right: 0;
+    height: 60px;
+    border-radius: 16px;
+    width: 200px;
+    font-size: 25px;
+    font-weight: 600;
+  }
+  /*SAS  */
+  .sas-link{
+    margin-top: 20px;
+  }
+.sas-img img{
+    width: 640px;
+    height: 300px;
+    justify-content: space-between;
+    object-fit: cover;
+}
+
+.mb-2{
+    font-size: 20px;
+    font-weight: 700;
+    color: orangered;
+    outline: none;
+    border: none;
+    z-index: 3000;
+    position: relative;
+    position: fixed;
+     right: 0;
+   top: 500px;
+
+}
+.toast-text{
+    display: flex;
+}
+.Toast-list{
+   position: absolute;
+ top: -200px;
+ z-index: 4000;
+ width: 400px;
+right: 0;
+}
+
+.btn-btn-scroll {
+    display: flex;
+    align-items: center;
+    position: fixed;
+    border-radius: 50%;
+     top: 700px;
+     left: 20px;
+     width: 45px;
+     height: 45px;
+     justify-content: center;
+}
+.btn-btn-scroll img{
+    width: 25px;
+}
+

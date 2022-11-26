@@ -1,0 +1,32 @@
+.bg{
+    background-color: black; 
+    margin-top: 40px;
+    width: 100%;
+}
+.flex-footer{
+    display: flex;   
+}
+.footer-title{
+    width: 200px;
+}
+.footer{
+margin-left: 40px;
+margin-right: 40px;
+}
+.footer-title{
+    color: #fff;
+    font-size: 14px;
+    font-weight: 500;
+}
+.text-link-footer { 
+    font-size: 13px;
+}
+.footer-title1{
+    color: #fff;
+    font-size: 14px;
+    font-weight: 500;
+    margin-top: 15px;
+}
+.footer-img-phone{
+    width: 30px;
+}

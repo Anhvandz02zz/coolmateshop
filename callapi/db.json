@@ -1,0 +1,2016 @@
+{ 
+  "menuheader":[
+    {
+      "id":"1",
+      "title":"OutLet"
+    },
+    {
+      "id":"2",
+      "title":"Combo tiết kiệm"
+    },
+    {
+      "id":"3",
+      "title":"Sản phẩm",
+      "child":[
+               {
+                "title":"Nhu cầu",
+                "childs":[
+                            {
+                              "name":"Mặc nhà & Mặc trong",
+                              "content":"Homewear & Underwear",
+                              "imgname":"https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/June2022/do-mac-nha-va-mac-trong.jpg"
+                            },
+                            {
+                              "name": "Mặc hàng ngày",
+                              "content": "Casualwear"
+                            },
+                            {
+                              "name": "Thể Thao",
+                              "content": "Activewear",
+                              "attention": "Hot"      
+                              
+                            },
+                            {
+                              "name": "Phụ kiện",
+                              "content": "Accessories"
+                            
+                            }
+
+                         ]
+               },
+               {
+                "title":"Danh mục",
+                "childs":[
+                           {
+                            "name":"Aó Nam",
+                            "product": 
+                             [
+                              "Áo Tank top",
+                              "Áo T shirt",
+                              "Áo Polo",
+                              "Áo Sơ Mi",
+                              "Áo Thể Thao",
+                              "Áo In Hình",
+                              "Áo khoác thể thao"
+                             ]
+                           },
+                           {
+                            "name":"Phụ kiện",
+                            "product":["Mũ (Nón)", "Tất (Vớ)"]
+                           },
+                           {
+                            "name": "Quần Nam",
+                            "product":["Quần Shorts", "Quần Jeans,Quần Dài"],
+                            "imgnam":""
+                           },
+                           {
+                            "name": "Quần Lót Nam",
+                            "product": [
+                                 "Quần Brief (Tam giác)",
+                                 "Quần Trunk (Boxer)",
+                                 "Quần Brief Boxer (Boxer dài)"
+                                       ]
+                           },
+                           {
+                            "name":"Tất cả sản phẩm"      
+                        
+                           },
+                           {
+                            "name": "Box đồ nam"
+                            
+                           }
+
+                         ]
+               },
+               {
+                "title" :"Bộ sưu tập",
+                "childs" :[
+                            {
+                              "name" : "Vũ trụ áo Marvel",
+                              "content" : "Ưu đãi trải nghiệm hấp dẫn"
+                             
+                            },
+                            {
+                              "name" : "Clean Vietnam",
+                              "content" : "Sự kết hợp giữa Coolmate & Vietmax"
+                             
+                            },
+                            {
+                              "name": "Coolmate Basics",
+                              "content": "BST giá rẻ - chất lượng"
+                             
+                            },
+                            {
+                             
+                              "name" : "Sản phẩm bền vững",
+                              "content": "Sản phẩm thân thiện với môi trường"
+                             
+                            }
+                          ]
+               },
+               {
+                "title": "Công nghệ",
+                "childs" :[
+                           {
+                            "name": "Excool",
+                            "content": "Công nghệ làm mát tối đa",
+                            "product": []
+                           },
+                           {
+                            "name": "Cleandye",
+                            "content": "Sự kết hợp giữa Coolmate & Vietmax",
+                            "product": []
+                           },
+                           {
+                            "name": "HeiQ Viroblock",
+                            "content": "Diệt 99.99% virus SARS-CoV2",
+                            "product": []
+                           },
+                           {
+                            "name": "Anti-Smell",
+                            "content": "10% doanh thu dành cho các bé",
+                            "product": []
+                          },
+                          {
+                            "name": "Sản phẩm bền vững",
+                            "content": "Công nghệ khử mùi từ Nhật Bản",
+                            "product": []
+                          }
+                          ]
+               }
+
+              ]
+    },
+    {
+     "id":"4",
+     "title":"Coolxprint"
+    },
+    {
+      "id":"5",
+      "title":"Về Coolmate",
+      "child":[
+                {
+                "id":"1",
+                "linkImg":"https://mcdn.coolmate.me/image/August2022/mceclip0_97.jpg",
+                "NameCol":"Dịch vụ 100% hài lòng ",
+                "content":"Bật mí 11 dịch vụ cam kết với khách hàng"
+                },
+                {
+                "id":"2",
+                "linkImg":"https://mcdn.coolmate.me/image/August2022/mceclip1_92.jpg",
+                "NameCol":"Dịch vụ 100% hài lòng ",
+                "content":"Bật mí 11 dịch vụ cam kết với khách hàng"
+                },
+                {
+                  "id":"3",
+                "linkImg":"https://mcdn.coolmate.me/image/August2022/mceclip2_100.jpg",
+                "NameCol":"Coolclub - Khách hàng thân thiết ",
+                "content":"Những ưu đãi hấp dẫn dành cho khách hàng thân thiết"
+                },
+              {
+                  "id":"4",
+                  "linkImg":"https://mcdn.coolmate.me/image/August2022/mceclip3_34.jpg",
+                  "NameCol":"Câu chuyện ",
+                  "content":"Về sartup với mô hình online"
+              }
+              ]
+    },
+    {
+      "id":"6",
+      "title":"Chọn Size"
+    }
+  
+],
+
+"Slide": [
+  {
+    "id":"sl1",
+    "srcimg":"https://www.coolmate.me/collection/coolmate-activewear?itm_source=home-banner"
+  },
+  {
+    "id":"sl2",
+    "srcimg":"https://www.coolmate.me/collection/proudly-made-in-vietnam?itm_source=home-banner"
+  },
+  {
+    "id":"sl3",
+    "srcimg":"https://www.coolmate.me/collection/proudly-made-in-vietnam?itm_source=home-banner"
+  }
+],
+  
+"productData": [
+    {
+      "id": 26,
+      "linkImg": [
+        "https://www.coolmate.me/product/quan-short-outdoor-vai-nylon-7-co-gian?itm_source=home-highlight-product",
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=100,format=auto/uploads/May2022/outdor73.jpg",
+        "https://www.coolmate.me/product/quan-short-outdoor-vai-nylon-7-co-gian?itm_source=home-highlight-product&color=tim-than#",
+        "https://www.coolmate.me/product/quan-short-outdoor-vai-nylon-7-co-gian?itm_source=home-highlight-product&color=tim-than#"
+      ],
+      "purchases": "(77)",
+      "save": "Saving pack",
+      "code": "HDHHH1",
+      "producname": "Quần đùi ",
+      "sale": "25%",
+      "size": ["M", "L", "XL", "2XL", "3XL"],
+      "color": [
+        "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/August2022/3lo_da_troi_6.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/August2022/3lo_trang_6.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/June2022/1DSC04774-Edit-copy_32_96.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/June2022/1DSC04648-copy_70.jpg"
+      ],
+      "detailproduct": "Combo 2 quần shortnam thể thao Movement5 co giãn",
+      "price_1": 299.000,
+      "main_price":99,
+      "type": "We-made-too-much",
+      "sold": "Đã bán(web): 1234",
+      "soldtow": "Mua 2 chỉ còn 249k/chiếc",
+      "salientfeatures":[
+        "Chất liệu 92% sợi Pima Cotton, 8% Spandex với khả năng hút ẩm và giữ màu tốt",
+        "Cotton Pima có độ dài hơn 50% so với cotton thông thường, nên sẽ tạo sự mềm mại, ít xù lông, bền và chắc chắn hơn so với cotton thường",
+        "Đai lưng được dệt bằng công nghệ mới nhất hiện tại, đem đến cảm giác co giãn siêu tốt, mềm mượt không vết hằn",
+        "An toàn, không gây kích ứng da",
+        "Sản xuất tại xưởng 10 năm kinh nghiệm tại TP Hồ Chí Min",
+        "Tự hào sản xuất tại Việt Nam"
+    ]
+    },
+    {
+      "id": 27,
+      "linkImg": [
+        "https://www.coolmate.me/product/ao-polo-nam-antismell?itm_source=home-highlight-product",
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=100,format=auto/uploads/May2022/polo-anti-navy_15_copy_7.jpg"
+      ],
+      "evalue": "5*",
+      "purchases": "(77)",
+      "save": "Saving pack",
+      "code": "HDHHH1",
+      "producname": "Quần đùi ",
+      "sale": "25%",
+      "size": ["M", "L", "XL", "2XL", "3XL"],
+      "color": [
+        "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/August2022/3lo_da_troi_6.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/August2022/3lo_trang_6.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/June2022/1DSC04774-Edit-copy_32_96.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/June2022/1DSC04648-copy_70.jpg"
+      ],
+      "detailproduct": "Combo 2 quần shortnam thể thao Movement5 co giãn",
+      "price_1": 299.000,
+      "main_price": 399,
+      "type": "We-made-too-much",
+      "sold": "Đã bán(web): 1234",
+      "soldtow": "Mua 2 chỉ còn 249k/chiếc",
+      "salientfeatures":[
+        "Chất liệu 92% sợi Pima Cotton, 8% Spandex với khả năng hút ẩm và giữ màu tốt",
+        "Cotton Pima có độ dài hơn 50% so với cotton thông thường, nên sẽ tạo sự mềm mại, ít xù lông, bền và chắc chắn hơn so với cotton thường",
+        "Đai lưng được dệt bằng công nghệ mới nhất hiện tại, đem đến cảm giác co giãn siêu tốt, mềm mượt không vết hằn",
+        "An toàn, không gây kích ứng da",
+        "Sản xuất tại xưởng 10 năm kinh nghiệm tại TP Hồ Chí Min",
+        "Tự hào sản xuất tại Việt Nam"
+    ]
+    },
+    {
+      "id": 28,
+      "linkImg": [
+        "https://www.coolmate.me/product/quan-dai-nam-jogger-pants?itm_source=home-highlight-product",
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=100,format=auto/uploads/January2022/daily.png"
+      ],
+      "evalue": "5*",
+      "purchases": "(77)",
+      "save": "Saving pack",
+      "code": "HDHHH1",
+      "producname": "Quần đùi ",
+      "sale": "25%",
+      "size": ["M", "L", "XL", "2XL", "3XL"],
+      "color": [
+        "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/August2022/3lo_da_troi_6.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/August2022/3lo_trang_6.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/June2022/1DSC04774-Edit-copy_32_96.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/June2022/1DSC04648-copy_70.jpg"
+      ],
+      "detailproduct": "Combo 2 quần shortnam thể thao Movement5 co giãn",
+      "price_1": 299.000,
+      "main_price":399000,
+      "type": "We-made-too-much",
+      "sold": "Đã bán(web): 1234",
+      "soldtow": "Mua 2 chỉ còn 249k/chiếc",
+      "salientfeatures":[
+        "Chất liệu 92% sợi Pima Cotton, 8% Spandex với khả năng hút ẩm và giữ màu tốt",
+        "Cotton Pima có độ dài hơn 50% so với cotton thông thường, nên sẽ tạo sự mềm mại, ít xù lông, bền và chắc chắn hơn so với cotton thường",
+        "Đai lưng được dệt bằng công nghệ mới nhất hiện tại, đem đến cảm giác co giãn siêu tốt, mềm mượt không vết hằn",
+        "An toàn, không gây kích ứng da",
+        "Sản xuất tại xưởng 10 năm kinh nghiệm tại TP Hồ Chí Min",
+        "Tự hào sản xuất tại Việt Nam"
+    ]
+    },
+    {
+      "id": 29,
+      "linkImg": [
+        "https://www.coolmate.me/product/ao-khoac-gio-the-thao-heiq-viroblock-chong-uv-truot-nuoc?itm_source=home-highlight-product",
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=100,format=auto/uploads/February2022/NNjac28.jpg"
+      ],
+      "evalue": "5*",
+      "purchases": "(77)",
+      "save": "Saving pack",
+      "code": "HDHHH1",
+      "producname": "Quần đùi ",
+      "sale": "25%",
+      "size": ["M", "L", "XL", "2XL", "3XL"],
+      "color": [
+        "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/August2022/3lo_da_troi_6.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/August2022/3lo_trang_6.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/June2022/1DSC04774-Edit-copy_32_96.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/June2022/1DSC04648-copy_70.jpg"
+      ],
+      "detailproduct": "Combo 2 quần shortnam thể thao Movement5 co giãn",
+      "price_1": 299.000,
+      "main_price":3990,
+      "type": "We-made-too-much",
+      "sold": "Đã bán(web): 1234",
+      "soldtow": "Mua 2 chỉ còn 249k/chiếc",
+      "salientfeatures":[
+        "Chất liệu 92% sợi Pima Cotton, 8% Spandex với khả năng hút ẩm và giữ màu tốt",
+        "Cotton Pima có độ dài hơn 50% so với cotton thông thường, nên sẽ tạo sự mềm mại, ít xù lông, bền và chắc chắn hơn so với cotton thường",
+        "Đai lưng được dệt bằng công nghệ mới nhất hiện tại, đem đến cảm giác co giãn siêu tốt, mềm mượt không vết hằn",
+        "An toàn, không gây kích ứng da",
+        "Sản xuất tại xưởng 10 năm kinh nghiệm tại TP Hồ Chí Min",
+        "Tự hào sản xuất tại Việt Nam"
+    ]
+    },
+    {
+      "id": 30,
+      "linkImg": [
+        "https://www.coolmate.me/product/combo-03-quan-lot-trunk-pima-cotton-tham-hut-tot?itm_source=home-highlight-product",
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=100,format=auto/uploads/September2022/140-0.jpg"
+      ],
+      "evalue": "5*",
+      "purchases": "(77)",
+      "save": "Saving pack",
+      "code": "HDHHH1",
+      "producname": "Quần đùi ",
+      "sale": "25%",
+      "size": ["M", "L", "XL", "2XL", "3XL"],
+      "color": [
+        "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/August2022/3lo_da_troi_6.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/August2022/3lo_trang_6.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/June2022/1DSC04774-Edit-copy_32_96.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/June2022/1DSC04648-copy_70.jpg"
+      ],
+      "detailproduct": "Combo 2 quần shortnam thể thao Movement5 co giãn",
+      "price_1": 299.000,
+      "main_price": 399,
+      "type": "Quần lót nam",
+      "sold": "Đã bán(web): 1234",
+      "soldtow": "Mua 2 chỉ còn 249k/chiếc",
+      "salientfeatures":[
+        "Chất liệu 92% sợi Pima Cotton, 8% Spandex với khả năng hút ẩm và giữ màu tốt",
+        "Cotton Pima có độ dài hơn 50% so với cotton thông thường, nên sẽ tạo sự mềm mại, ít xù lông, bền và chắc chắn hơn so với cotton thường",
+        "Đai lưng được dệt bằng công nghệ mới nhất hiện tại, đem đến cảm giác co giãn siêu tốt, mềm mượt không vết hằn",
+        "An toàn, không gây kích ứng da",
+        "Sản xuất tại xưởng 10 năm kinh nghiệm tại TP Hồ Chí Min",
+        "Tự hào sản xuất tại Việt Nam"
+    ]
+    },
+    {
+      "id": 31,
+      "linkImg": [
+        "https://www.coolmate.me/product/combo-3-quan-lot-trunk-vai-cotton-modal1?itm_source=home-highlight-product",
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=100,format=auto/uploads/May2022/DSC06301_copy.jpg"
+      ],
+      "evalue": "5*",
+      "purchases": "(77)",
+      "save": "Saving pack",
+      "code": "HDHHH1",
+      "producname": "Quần đùi ",
+      "sale": "25%",
+      "size": ["M", "L", "XL", "2XL", "3XL"],
+      "color": [
+        "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/August2022/3lo_da_troi_6.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/August2022/3lo_trang_6.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/June2022/1DSC04774-Edit-copy_32_96.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/June2022/1DSC04648-copy_70.jpg"
+      ],
+      "detailproduct": "Combo 2 quần shortnam thể thao Movement5 co giãn",
+      "price_1": 299.000,
+      "main_price":399,
+      "type": "Quần lót nam",
+      "sold": "Đã bán(web): 1234",
+      "soldtow": "Mua 2 chỉ còn 249k/chiếc",
+      "salientfeatures":[
+        "Chất liệu 92% sợi Pima Cotton, 8% Spandex với khả năng hút ẩm và giữ màu tốt",
+        "Cotton Pima có độ dài hơn 50% so với cotton thông thường, nên sẽ tạo sự mềm mại, ít xù lông, bền và chắc chắn hơn so với cotton thường",
+        "Đai lưng được dệt bằng công nghệ mới nhất hiện tại, đem đến cảm giác co giãn siêu tốt, mềm mượt không vết hằn",
+        "An toàn, không gây kích ứng da",
+        "Sản xuất tại xưởng 10 năm kinh nghiệm tại TP Hồ Chí Min",
+        "Tự hào sản xuất tại Việt Nam"
+    ]
+    },
+    {
+      "id": 32,
+      "linkImg": [
+        "https://www.coolmate.me/product/combo-02-quan-lot-nam-trunk-microfiber-excool-thoang-khi?itm_source=home-highlight-product",
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=100,format=auto/uploads/June2022/den_ex_1.jpg"
+      ],
+      "evalue": "5*",
+      "purchases": "(77)",
+      "save": "Saving pack",
+      "code": "HDHHH1",
+      "producname": "Quần đùi ",
+      "sale": "25%",
+      "size": ["M", "L", "XL", "2XL", "3XL"],
+      "color": [
+        "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/August2022/3lo_da_troi_6.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/August2022/3lo_trang_6.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/June2022/1DSC04774-Edit-copy_32_96.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/June2022/1DSC04648-copy_70.jpg"
+      ],
+      "detailproduct": "Combo 2 quần shortnam thể thao Movement5 co giãn",
+      "price_1": 299.000,
+      "main_price": 399,
+      "type": "Quần lót nam",
+      "sold": "Đã bán(web): 1234",
+      "soldtow": "Mua 2 chỉ còn 249k/chiếc"
+    },
+    {
+      "id": 33,
+      "linkImg": [
+        "https://www.coolmate.me/product/combo-3-quan-lot-brief-vai-cotton-modal-den-cap-moi?itm_source=home-highlight-product",
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=100,format=auto/uploads/June2022/DSC06465_copy.jpg"
+      ],
+      "evalue": "5*",
+      "purchases": "(77)",
+      "save": "Saving pack",
+      "code": "HDHHH1",
+      "producname": "Quần đùi ",
+      "sale": "25%",
+      "size": ["M", "L", "XL", "2XL", "3XL"],
+      "color": [
+        "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/August2022/3lo_da_troi_6.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/August2022/3lo_trang_6.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/June2022/1DSC04774-Edit-copy_32_96.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/June2022/1DSC04648-copy_70.jpg"
+      ],
+      "detailproduct": "Combo 2 quần shortnam thể thao Movement5 co giãn",
+      "price_1": 299.000,
+      "main_price":399,
+      "type": "Quần lót nam",
+      "sold": "Đã bán(web): 1234",
+      "sold-tow": "Mua 2 chỉ còn 249k/chiếc",
+      "salientfeatures":[
+        "Chất liệu 92% sợi Pima Cotton, 8% Spandex với khả năng hút ẩm và giữ màu tốt",
+        "Cotton Pima có độ dài hơn 50% so với cotton thông thường, nên sẽ tạo sự mềm mại, ít xù lông, bền và chắc chắn hơn so với cotton thường",
+        "Đai lưng được dệt bằng công nghệ mới nhất hiện tại, đem đến cảm giác co giãn siêu tốt, mềm mượt không vết hằn",
+        "An toàn, không gây kích ứng da",
+        "Sản xuất tại xưởng 10 năm kinh nghiệm tại TP Hồ Chí Min",
+        "Tự hào sản xuất tại Việt Nam"
+    ]
+    },
+    {
+      "id": 34,
+      "linkImg": [
+        "https://www.coolmate.me/product/quan-short-nam-the-thao-movement-7-co-gian?itm_source=home-highlight-product",
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=100,format=auto/uploads/August2022/DSC01693-copymovexanh.jpg"
+      ],
+      "evalue": "5*",
+      "purchases": "(77)",
+      "save": "Saving pack",
+      "code": "HDHHH1",
+      "producname": "Quần đùi ",
+      "sale": "25%",
+      "size": ["M", "L", "XL", "2XL", "3XL"],
+      "color": [
+        "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/August2022/3lo_da_troi_6.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/August2022/3lo_trang_6.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/June2022/1DSC04774-Edit-copy_32_96.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/June2022/1DSC04648-copy_70.jpg"
+      ],
+      "detailproduct": "Combo 2 quần shortnam thể thao Movement5 co giãn",
+      "price_1": 299.000,
+      "main_price":399,
+      "type": "Đồ thể thao",
+      "sold": "Đã bán(web): 1234",
+      "sold-tow": "Mua 2 chỉ còn 249k/chiếc",
+      "salientfeatures":[
+        "Chất liệu 92% sợi Pima Cotton, 8% Spandex với khả năng hút ẩm và giữ màu tốt",
+        "Cotton Pima có độ dài hơn 50% so với cotton thông thường, nên sẽ tạo sự mềm mại, ít xù lông, bền và chắc chắn hơn so với cotton thường",
+        "Đai lưng được dệt bằng công nghệ mới nhất hiện tại, đem đến cảm giác co giãn siêu tốt, mềm mượt không vết hằn",
+        "An toàn, không gây kích ứng da",
+        "Sản xuất tại xưởng 10 năm kinh nghiệm tại TP Hồ Chí Min",
+        "Tự hào sản xuất tại Việt Nam"
+    ]
+    },
+    {
+      "id": 35,
+      "linkImg": [
+        "https://www.coolmate.me/product/quan-the-thao-nam-promax-s1?itm_source=home-highlight-product",
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=100,format=auto/uploads/April2022/quanpromax_6.jpg"
+      ],
+      "evalue": "5*",
+      "purchases": "(77)",
+      "save": "Saving pack",
+
+      "code": "HDHHH1",
+      "producname": "Quần đùi ",
+      "sale": "25%",
+      "size": ["M", "L", "XL", "2XL", "3XL"],
+      "color": [
+        "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/August2022/3lo_da_troi_6.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/August2022/3lo_trang_6.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/June2022/1DSC04774-Edit-copy_32_96.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/June2022/1DSC04648-copy_70.jpg"
+      ],
+      "detailproduct": "Combo 2 quần shortnam thể thao Movement5 co giãn",
+      "price_1": 299.000,
+      "main_price": 399,
+      "type": "Đồ thể thao",
+      "sold": "Đã bán(web): 1234",
+      "sold-tow": "Mua 2 chỉ còn 249k/chiếc",
+      "salientfeatures":[
+        "Chất liệu 92% sợi Pima Cotton, 8% Spandex với khả năng hút ẩm và giữ màu tốt",
+        "Cotton Pima có độ dài hơn 50% so với cotton thông thường, nên sẽ tạo sự mềm mại, ít xù lông, bền và chắc chắn hơn so với cotton thường",
+        "Đai lưng được dệt bằng công nghệ mới nhất hiện tại, đem đến cảm giác co giãn siêu tốt, mềm mượt không vết hằn",
+        "An toàn, không gây kích ứng da",
+        "Sản xuất tại xưởng 10 năm kinh nghiệm tại TP Hồ Chí Min",
+        "Tự hào sản xuất tại Việt Nam"
+    ]
+    },
+    {
+      "id": 36,
+      "linkImg": [
+        "https://www.coolmate.me/product/ao-polo-the-thao-nam-promax-s1-logo?itm_source=home-highlight-product",
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=100,format=auto/uploads/November2021/IMG_64714.jpg"
+      ],
+      "evalue": "5*",
+      "purchases": "(77)",
+      "save": "Saving pack",
+
+      "code": "HDHHH1",
+      "producname": "Quần đùi ",
+      "sale": "25%",
+      "size": ["M", "L", "XL", "2XL", "3XL"],
+      "color": [
+        "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/August2022/3lo_da_troi_6.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/August2022/3lo_trang_6.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/June2022/1DSC04774-Edit-copy_32_96.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/June2022/1DSC04648-copy_70.jpg"
+      ],
+      "detailproduct": "Combo 2 quần shortnam thể thao Movement5 co giãn",
+      "price_1": 299.000,
+      "main_price":399,
+      "type": "Đồ thể thao",
+      "sold": "Đã bán(web): 1234",
+      "sold-tow": "Mua 2 chỉ còn 249k/chiếc",
+      "salientfeatures":[
+        "Chất liệu 92% sợi Pima Cotton, 8% Spandex với khả năng hút ẩm và giữ màu tốt",
+        "Cotton Pima có độ dài hơn 50% so với cotton thông thường, nên sẽ tạo sự mềm mại, ít xù lông, bền và chắc chắn hơn so với cotton thường",
+        "Đai lưng được dệt bằng công nghệ mới nhất hiện tại, đem đến cảm giác co giãn siêu tốt, mềm mượt không vết hằn",
+        "An toàn, không gây kích ứng da",
+        "Sản xuất tại xưởng 10 năm kinh nghiệm tại TP Hồ Chí Min",
+        "Tự hào sản xuất tại Việt Nam"
+    ]
+    },
+    {
+      "id": 37,
+      "linkImg": [
+        "https://www.coolmate.me/product/Áo-Tank-top-the-thao-nam-thoang-khi?itm_source=home-highlight-product",
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=100,format=auto/uploads/November2021/IMG_64714.jpg"
+      ],
+      "evalue": "5*",
+      "purchases": "(77)",
+      "save": "Saving pack",
+      "code": "HDHHH1",
+      "producname": "Quần đùi ",
+      "sale": "25%",
+      "size": ["M", "L", "XL", "2XL", "3XL"],
+      "color": [
+        "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/August2022/3lo_da_troi_6.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/August2022/3lo_trang_6.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/June2022/1DSC04774-Edit-copy_32_96.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/June2022/1DSC04648-copy_70.jpg"
+      ],
+      "detailproduct": "Combo 2 quần shortnam thể thao Movement5 co giãn",
+      "price_1": 299.000,
+      "main_price":399,
+      "type": "Đồ thể thao",
+      "sold": "Đã bán(web): 1234",
+      "soldtow": "Mua 2 chỉ còn 249k/chiếc",
+      "salientfeatures":[
+        "Chất liệu 92% sợi Pima Cotton, 8% Spandex với khả năng hút ẩm và giữ màu tốt",
+        "Cotton Pima có độ dài hơn 50% so với cotton thông thường, nên sẽ tạo sự mềm mại, ít xù lông, bền và chắc chắn hơn so với cotton thường",
+        "Đai lưng được dệt bằng công nghệ mới nhất hiện tại, đem đến cảm giác co giãn siêu tốt, mềm mượt không vết hằn",
+        "An toàn, không gây kích ứng da",
+        "Sản xuất tại xưởng 10 năm kinh nghiệm tại TP Hồ Chí Min",
+        "Tự hào sản xuất tại Việt Nam"
+    ]
+    },
+    {
+      "id": 38,
+      "imgTitle" :"https://media.coolmate.me/cdn-cgi/image/quality=80,format=auto/uploads/June2022/do-mac-nha-va-mac-trong.jpg",
+      "linkImg": [
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=85,format=auto/uploads/September2022/combo-3_49.jpg",
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=85,format=auto/uploads/September2022/139-1.jpg"
+      ],
+      "evalue": "5*",
+      "purchases": "(77)",
+      "save": "Saving pack",
+      "code": "HDHHH1",
+      "producname": "Quần đùi ",
+      "sale": "-7%",
+      "size": ["M", "L", "XL", "2XL", "3XL"],
+      "color": [
+        "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/August2022/3lo_da_troi_6.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/August2022/3lo_trang_6.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/June2022/1DSC04774-Edit-copy_32_96.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/June2022/1DSC04648-copy_70.jpg"
+      ],
+      "detailproduct": "Combo 03 Quần lót Trunk Pima Cotton thấm hút tốt - Xanh Navy",
+      "price_1": 299.000,
+      "main_price":299,
+      "type": "Mặc nhà & Mặc trong",
+      "salientfeatures":[
+          "Chất liệu 92% sợi Pima Cotton, 8% Spandex với khả năng hút ẩm và giữ màu tốt",
+          "Cotton Pima có độ dài hơn 50% so với cotton thông thường, nên sẽ tạo sự mềm mại, ít xù lông, bền và chắc chắn hơn so với cotton thường",
+          "Đai lưng được dệt bằng công nghệ mới nhất hiện tại, đem đến cảm giác co giãn siêu tốt, mềm mượt không vết hằn",
+          "An toàn, không gây kích ứng da",
+          "Sản xuất tại xưởng 10 năm kinh nghiệm tại TP Hồ Chí Min",
+          "Tự hào sản xuất tại Việt Nam"
+      ],
+      "sold": "Đã bán(web): 1234",
+      "soldtow": "Mua 2 chỉ còn 249k/chiếc"
+    },
+    {
+      "id": 39,
+      "linkImg": [
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=85,format=auto/uploads/June2022/cottonmoxammix.jpg",
+        "https://media.coolmate.me/cdn-cgi/image/width=672,…85,format=auto/uploads/June2022/DSC06279_copy.jpg"     
+         ],
+      "evalue": "5*",
+      "purchases": "(77)",
+      "save": "Saving pack",
+      "code": "HDHHH1",
+      "producname": "Quần đùi ",
+      "sale": "-7%",
+      "size": ["M", "L", "XL", "2XL", "3XL"],
+      "color": [
+        "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/August2022/3lo_da_troi_6.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/August2022/3lo_trang_6.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/June2022/1DSC04774-Edit-copy_32_96.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/June2022/1DSC04648-copy_70.jpg"
+      ],
+      "detailproduct": "Combo 3 Quần lót Trunk vải Cotton Modal đen cạp mới - Phối màu",
+      "price_1": 299.000,
+      "main_price":299,
+      "type": "Mặc nhà & Mặc trong",
+      "sold": "Đã bán(web): 1234",
+      "soldtow": "Mua 2 chỉ còn 249k/chiếc",
+      "salientfeatures":[
+        "Chất liệu: 50% Modal - 42% Cotton - 8% Spandex",
+        "Công nghệ may Flat-out Stream đảm bảo co dãn và êm ái nhẹ nhàng cho phần da vùng nhạy cảm",
+        "Đai lưng được dệt bằng công nghệ mới nhất hiện tại, đem đến cảm giác co giãn siêu tốt, mềm mượt không vết hằn",
+        "Sản xuất tại xưởng 10 năm kinh nghiệm tại TP Hồ Chí Minh * Xem nhà máy >",
+        "Người mẫu 1m78, 70kg - mặc 2XL"
+      ]
+    },
+    {
+      "id": 40,
+      "linkImg": [
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=85,format=auto/uploads/January2022/8-5.jpg",
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=85,format=auto/uploads/January2022/ss3-71.jpg"           
+         ],
+      "evalue": "5*",
+      "purchases": "(77)",
+      "save": "Saving pack",
+      "code": "HDHHH1",
+      "producname": "Quần đùi ",
+      "size": ["M", "L", "XL", "2XL", "3XL"],
+      "color": [
+        "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/August2022/3lo_da_troi_6.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/August2022/3lo_trang_6.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/June2022/1DSC04774-Edit-copy_32_96.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/June2022/1DSC04648-copy_70.jpg"
+      ],
+      "detailproduct": "Quần Shorts mặc nhà Coolmate Basics - Đen",
+      "main_price":299,     
+      "type": "Mặc nhà & Mặc trong",
+      "sold": "Đã bán(web): 1234",
+      "soldtow": "Mua 2 chỉ còn 249k/chiếc",
+      "salientfeatures":[
+        "Chất liệu 100% Polyester mỏng nhẹ và thoải mái",
+        "Chiếc quần được xử lý hoàn thiện Wicking (thoáng khí), Quickdry (Nhanh khô), trượt nước Water C6 (trừ màu đen)",
+        "Mặc ở nhà thoải mái, phù hợp với các hoạt động thể thao vận động nhẹ",
+        "Quần ngắn, ống rộng thoải mái và cạp chun để bạn luôn thấy tiện lợi",
+        "Hoàn thiện kỹ lưỡng đến từng đường may",
+        "Tự hào sản xuất tại Việt Nam"
+      ]
+    },
+    {
+      "id": 41,
+      "linkImg": [
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=85,format=auto/uploads/January2022/8-5.jpg",
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=85,format=auto/uploads/January2022/ss3-71.jpg"           
+         ],
+      "evalue": "5*",
+      "purchases": "(77)",
+      "save": "Saving pack",
+      "code": "HDHHH1",
+      "producname": "Quần đùi ",
+      "size": ["M", "L", "XL", "2XL", "3XL"],
+      "color": [
+        "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/August2022/3lo_da_troi_6.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/August2022/3lo_trang_6.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/June2022/1DSC04774-Edit-copy_32_96.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/June2022/1DSC04648-copy_70.jpg"
+      ],
+      "detailproduct": "Quần Shorts mặc nhà Coolmate Basics - Đen",
+      "main_price":299,    
+      "type": "Mặc nhà & Mặc trong",
+      "sold": "Đã bán(web): 1234",
+      "soldtow": "Mua 2 chỉ còn 249k/chiếc"
+    },
+    {
+      "id": 63,
+      "linkImg": [
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=85,format=auto/uploads/January2022/1briefba3_79.jpg",
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=85,format=auto/uploads/January2022/brief_den_thumb.jpg"           
+         ],
+      "evalue": "5*",
+      "purchases": "(77)",
+      "save": "Saving pack",
+      "code": "HDHHH1",
+      "producname": "Quần đùi ",
+      "size": ["M", "L", "XL", "2XL", "3XL"],
+      "color": [
+        "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/August2022/3lo_da_troi_6.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/August2022/3lo_trang_6.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/June2022/1DSC04774-Edit-copy_32_96.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/June2022/1DSC04648-copy_70.jpg"
+      ],
+      "detailproduct": "Quần lót nam Trunk Coolmate Basics",
+      "main_price":56000  ,   
+      "type": "Mặc nhà & Mặc trong",
+      "sold": "Đã bán (web): 15285",
+      "soldtow": "Mua 2 chỉ còn 249k/chiếc",
+      "salientfeatures":[
+        "Chất liệu 95% Cotton Compact - 5% Spandex tạo sự mềm mại và thoáng mát",
+        "ĐỊnh lượng 170gsm mỏng hơn Cotton Compact thường",
+        "Đai lưng may liền, không viền, tạo cảm giác thoải mái và phù hợp với vóc dáng nam giới Việt",
+        "Công nghệ may Flat-out Stream đảm bảo sự co dãn và êm ái nhẹ nhàng cho phần da vùng nhạy cảm",
+        "Tự hào sản xuất tại Việt Nam",
+        "Người mẫu: 1m80 - 75kg, mặc XL"
+      ]
+    },
+    {
+      "id": 42,
+      "linkImg": [
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=85,format=auto/uploads/January2022/1briefba3_79.jpg",
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=85,format=auto/uploads/January2022/brief_den_thumb.jpg"           
+         ],
+      "evalue": "5*",
+      "purchases": "(77)",
+      "save": "Saving pack",
+      "code": "HDHHH1",
+      "producname": "Quần đùi ",
+      "size": ["M", "L", "XL", "2XL", "3XL"],
+      "color": [
+        "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/August2022/3lo_da_troi_6.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/August2022/3lo_trang_6.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/June2022/1DSC04774-Edit-copy_32_96.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/June2022/1DSC04648-copy_70.jpg"
+      ],
+      "detailproduct": "Quần lót nam Trunk Coolmate Basics - Xanh Navy",
+      "main_price": 299,     
+      "type": "Mặc nhà & Mặc trong",
+      "sold": "Đã bán(web): 1234",
+      "soldtow": "Mua 2 chỉ còn 249k/chiếc",
+      "salientfeatures":[
+        "Chất liệu 95% Cotton Compact - 5% Spandex tạo sự mềm mại và thoáng mát",
+        "ĐỊnh lượng 170gsm mỏng hơn Cotton Compact thường",
+        "Đai lưng may liền, không viền, tạo cảm giác thoải mái và phù hợp với vóc dáng nam giới Việt",
+        "Công nghệ may Flat-out Stream đảm bảo sự co dãn và êm ái nhẹ nhàng cho phần da vùng nhạy cảm",
+        "Tự hào sản xuất tại Việt Nam",
+        "Người mẫu: 1m80 - 75kg, mặc XL"
+      ]
+    },
+    {
+      "id": 43,
+      "linkImg": [
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=85,format=auto/uploads/January2022/5_mau_trang_nho.jpg",
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=85,format=auto/uploads/January2022/sappa12_25.jpg"           
+         ],
+      "evalue": "5*",
+      "purchases": "(77)",
+      "save": "Saving pack",
+      "code": "HDHHH1",
+      "producname": "Quần đùi ",
+      "size": ["M", "L", "XL", "2XL", "3XL"],
+      "color": [
+        "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/August2022/3lo_da_troi_6.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/August2022/3lo_trang_6.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/June2022/1DSC04774-Edit-copy_32_96.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/June2022/1DSC04648-copy_70.jpg"
+      ],
+      "detailproduct": "Combo 5 Áo thun nam 100% Cotton Coolmate Basics - Trắng",
+      "main_price":595,     
+      "type": "Mặc nhà & Mặc trong",
+      "sold": "Đã bán(web): 1234",
+      "soldtow": "Mua 2 chỉ còn 249k/chiếc",
+      "salientfeatures":[
+        "Chất liệu 100% Cotton tạo sự mềm mại ngay lần đầu chạm",
+        "Thấm mồ hôi tốt, để bạn luôn thoải mái khi mặc",
+        "Nhẹ và độ bền vải cao dễ dàng sử dụng",
+        "Thân thiện với môi trường",
+        "Tự hào sản xuất tại Việt Nam",
+        "Người mẫu: 1m84 - 75kg, mặc áo XL"
+      ]
+
+    },
+    {
+      "id": 44,
+      "linkImg": [
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=85,format=auto/uploads/January2022/5navykk_80.jpg",
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=85,format=auto/uploads/January2022/thum_navyyy.jpg"           
+         ],
+      "evalue": "5*",
+      "purchases": "(77)",
+      "save": "Saving pack",
+      "code": "HDHHH1",
+      "producname": "Quần đùi ",
+      "size": ["M", "L", "XL", "2XL", "3XL"],
+      "color": [
+        "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/August2022/3lo_da_troi_6.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/August2022/3lo_trang_6.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/June2022/1DSC04774-Edit-copy_32_96.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/June2022/1DSC04648-copy_70.jpg"
+      ],
+      "detailproduct": "Combo 05 quần lót nam Trunk Coolmate Basics - Xanh Navy",
+      "main_price":281,     
+      "type": "Mặc nhà & Mặc trong",
+      "sold": "Đã bán (web): 1434",
+     
+      "salientfeatures":[
+        "Chất liệu 95% Cotton Compact - 5% Spandex tạo sự mềm mại và thoáng mát",
+        "ĐỊnh lượng 170gsm mỏng hơn Cotton Compact thường",
+        "Đai lưng may liền, không viền, tạo cảm giác thoải mái và phù hợp với vóc dáng nam giới Việt",
+        "Công nghệ may Flat-out Stream đảm bảo sự co dãn và êm ái nhẹ nhàng cho phần da vùng nhạy cảm",
+        "Tự hào sản xuất tại Việt Nam",
+        "Người mẫu: 1m80 - 75kg, mặc áo XL"
+      ]
+    },
+    {
+      "id": 45,
+      "linkImg": [
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=85,format=auto/uploads/July2022/bambo_s2_den.jpg",
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=85,format=auto/uploads/January2022/bam232_copy.jpeg"           
+         ],
+      "evalue": "5*",
+      "purchases": "(77)",
+      "save": "Saving pack",
+      "code": "HDHHH1",
+      "producname": "Quần đùi ",
+      "size": ["M", "L", "XL", "2XL", "3XL"],
+      "color": [
+        "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/August2022/3lo_da_troi_6.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/August2022/3lo_trang_6.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/June2022/1DSC04774-Edit-copy_32_96.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/June2022/1DSC04648-copy_70.jpg"
+      ],
+      "detailproduct": "Combo 03 Quần lót nam Trunk Bamboo kháng khuẩn S2 - Đen",
+      "main_price": 299,
+      "type": "Mặc nhà & Mặc trong",
+      "sold": "Đã bán(web): 1234",
+    
+      "salientfeatures":[
+        "Chất liệu 95% sợi Bamboo (vải tre), 5% Spandex mềm mại, không gây ngứa, khó chịu khi mặc",
+        "Công nghệ may Flat-out Stream đảm bảo sự co dãn và êm ái nhẹ nhàng cùng với cáp trẻ trung, hiện đại",
+        "Sợi vải tre bamboo kháng khuẩn và khử mùi hiệu quả",
+        "Sản xuất tại xưởng 10 năm kinh nghiệm tại TP Hồ Chí Minh * Xem nhà máy >",
+        "Đai lưng được dệt bằng công nghệ mới nhất hiện tại, đem đến cảm giác co giãn siêu tốt, mềm mượt không vết hằn",
+        "Tự hào sản xuất tại Việt Nam",
+        "Người mẫu: 1m80 - 75kg, mặc áo XL"
+      ]
+      
+    },
+    {
+      "id": 46,
+      "linkImg": [
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=85,format=auto/uploads/January2022/thumb_navy.jpg",
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=85,format=auto/uploads/December2021/bam2sgu.jpg"           
+         ],
+      "evalue": "5*",
+      "purchases": "(77)",
+      "save": "Saving pack",
+      "code": "HDHHH1",
+      "producname": "Quần đùi ",
+      "size": ["M", "L", "XL", "2XL", "3XL"],
+      "color": [
+        "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/August2022/3lo_da_troi_6.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/August2022/3lo_trang_6.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/June2022/1DSC04774-Edit-copy_32_96.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/June2022/1DSC04648-copy_70.jpg"
+      ],
+      "detailproduct": "Combo 03 quần lót nam trunk Cotton Compact siêu mát S2 - Xanh Navy",
+      "main_price": 299,
+      "type": "Mặc nhà & Mặc trong",
+      "sold": "Đã bán(web): 1234",
+      "salientfeatures":[
+        "Chất liệu 95% Cotton Compact, 5% Spandex tạo sự mềm mại và thoáng mát",
+        "Đai lưng may liền, không viền, tạo cảm giác thoải mái và phù hợp với vóc dáng nam giới Việt",
+        "Công nghệ may Flat-out Stream đảm bảo sự co dãn và êm ái nhẹ nhàng cho phần da vùng nhạy cảm",
+        "Sản xuất tại xưởng 10 năm kinh nghiệm tại TP Hồ Chí Minh * Xem nhà máy >",
+        "Đai lưng được dệt bằng công nghệ mới nhất hiện tại, đem đến cảm giác co giãn siêu tốt, mềm mượt không vết hằn",
+        "Tự hào sản xuất tại Việt Nam",
+        "Người mẫu: 1m80 - 75kg, mặc áo XL"
+      ]
+    },
+    {
+      "id": 47,
+      "linkImg": [
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=85,format=auto/uploads/January2022/1briefba_32.jpg",
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=85,format=auto/uploads/January2022/brief_white_thumb.jpg"           
+         ],
+      "evalue": "5*",
+      "purchases": "(77)",
+      "save": "Saving pack",
+      "code": "HDHHH1",
+      "producname": "Quần đùi ",
+      "size": ["M", "L", "XL", "2XL", "3XL"],
+      "color": [
+        "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/August2022/3lo_da_troi_6.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/August2022/3lo_trang_6.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/June2022/1DSC04774-Edit-copy_32_96.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/June2022/1DSC04648-copy_70.jpg"
+      ],
+      "detailproduct": "Quần lót nam Brief Coolmate Basics - Trắng",
+      "price_1":49.000,  
+      "main_price":399,   
+      "type": "Mặc nhà & Mặc trong",
+      "sold": "Đã bán (web): 5051",
+      "salientfeatures":[
+        "Chất liệu 95% Cotton Compact - 5% Spandex tạo sự mềm mại và thoáng mát",
+        "ĐỊnh lượng 170gsm mỏng hơn Cotton Compact thường",
+        "Đai lưng may liền, không viền, tạo cảm giác thoải mái và phù hợp với vóc dáng nam giới Việt",
+        "Công nghệ may Flat-out Stream đảm bảo sự co dãn và êm ái nhẹ nhàng cho phần da vùng nhạy cảm",
+        "Tự hào sản xuất tại Việt Nam",
+        "Người mẫu: 1m80 - 75kg, mặc áo XL"
+      ]
+    },
+    {
+      "id": 48,
+      "linkImg": [
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=85,format=auto/uploads/January2022/1trunkba3_73.jpg",
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=85,format=auto/uploads/January2022/trunk_trang.jpg"         ],
+      "evalue": "5*",
+      "purchases": "(77)",
+      "save": "Saving pack",
+      "code": "HDHHH1",
+      "producname": "Quần đùi ",
+      "size": ["M", "L", "XL", "2XL", "3XL"],
+      "color": [
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/August2022/3lo_da_troi_6.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/August2022/3lo_trang_6.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/June2022/1DSC04774-Edit-copy_32_96.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/June2022/1DSC04648-copy_70.jpg"
+      ],
+      "detailproduct": "Combo 3 Quần lót Trunk vải Cotton Modal đen cạp mới",
+      "price_1": 279.000,   
+      "main_price":299,  
+      "type": "Mặc nhà & Mặc trong",
+      "sold": "Đã bán(web): 1234",
+      "soldtow": "Mua 2 chỉ còn 249k/chiếc"
+    },
+    {
+      "id": 49,
+      "linkImg": [
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=85,format=auto/uploads/January2022/trang_den_nho.jpg",
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=85,format=auto/uploads/January2022/blac2_copy.jpg" 
+        ],  
+        "evalue": "5*",
+      "purchases": "(77)",
+      "save": "Saving pack",
+      "code": "HDHHH1",
+      "producname": "Quần đùi ",
+      "size": ["M", "L", "XL", "2XL", "3XL"],
+      "color": [
+        "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/August2022/3lo_da_troi_6.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/August2022/3lo_trang_6.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/June2022/1DSC04774-Edit-copy_32_96.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/June2022/1DSC04648-copy_70.jpg"
+      ],
+      "detailproduct": "Combo 5 Áo thun nam 100% Cotton Coolmate Basics - Trắng Đen",
+      "price_1": 299.000,    
+      "main_price":299,  
+      "type": "Mặc nhà & Mặc trong",
+      "sold": "Đã bán(web): 1234",
+      "soldtow": "Mua 2 chỉ còn 249k/chiếc",
+      "salientfeatures":[
+        "Chất liệu 95% Cotton Compact - 5% Spandex tạo sự mềm mại và thoáng mát",
+        "ĐỊnh lượng 170gsm mỏng hơn Cotton Compact thường",
+        "Đai lưng may liền, không viền, tạo cảm giác thoải mái và phù hợp với vóc dáng nam giới Việt",
+        "Công nghệ may Flat-out Stream đảm bảo sự co dãn và êm ái nhẹ nhàng cho phần da vùng nhạy cảm",
+        "Tự hào sản xuất tại Việt Nam",
+        "Người mẫu: 1m80 - 75kg, mặc áo XL"
+      ]
+    },
+    {
+      "id": 50,
+      "linkImg": [
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=85,format=auto/uploads/January2022/trang_den_nho.jpg",
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=85,format=auto/uploads/January2022/blac2_copy.jpg" 
+        ],  
+        "evalue": "5*",
+      "purchases": "(77)",
+      "save": "Saving pack",
+      "code": "HDHHH1",
+      "producname": "Quần đùi ",
+      "size": ["M", "L", "XL", "2XL", "3XL"],
+      "color": [
+        "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/August2022/3lo_da_troi_6.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/August2022/3lo_trang_6.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/June2022/1DSC04774-Edit-copy_32_96.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/June2022/1DSC04648-copy_70.jpg"
+      ],
+      "detailproduct": "Combo 5 Áo thun nam 100% Cotton Coolmate Basics - Trắng Đen",
+      "price_1": 299.000,  
+      "main_price":299,    
+      "type": "Quần nam",
+      "sold": "Đã bán(web): 1234",
+      "soldtow": "Mua 2 chỉ còn 249k/chiếc",
+      "salientfeatures":[
+        "Chất liệu 95% Cotton Compact - 5% Spandex tạo sự mềm mại và thoáng mát",
+        "ĐỊnh lượng 170gsm mỏng hơn Cotton Compact thường",
+        "Đai lưng may liền, không viền, tạo cảm giác thoải mái và phù hợp với vóc dáng nam giới Việt",
+        "Công nghệ may Flat-out Stream đảm bảo sự co dãn và êm ái nhẹ nhàng cho phần da vùng nhạy cảm",
+        "Tự hào sản xuất tại Việt Nam",
+        "Người mẫu: 1m80 - 75kg, mặc áo XL"
+      ]
+    },
+    {
+      "id": 51,
+      "linkImg": [
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=85,format=auto/uploads/January2022/trang_den_nho.jpg",
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=85,format=auto/uploads/January2022/blac2_copy.jpg" 
+        ],  
+        "evalue": "5*",
+      "purchases": "(77)",
+      "save": "Saving pack",
+      "code": "HDHHH1",
+      "producname": "Quần đùi ",
+      "size": ["M", "L", "XL", "2XL", "3XL"],
+      "color": [
+        "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/August2022/3lo_da_troi_6.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/August2022/3lo_trang_6.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/June2022/1DSC04774-Edit-copy_32_96.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/June2022/1DSC04648-copy_70.jpg"
+      ],
+      "detailproduct": "Combo 5 Áo thun nam 100% Cotton Coolmate Basics - Trắng Đen",
+      "price_1": 299.000,   
+      "main_price":299,  
+      "type": "Mặc hàng ngày",
+      "sold": "Đã bán(web): 1234",
+      "soldtow": "Mua 2 chỉ còn 249k/chiếc",
+      "salientfeatures":[
+        "Chất liệu 95% Cotton Compact - 5% Spandex tạo sự mềm mại và thoáng mát",
+        "ĐỊnh lượng 170gsm mỏng hơn Cotton Compact thường",
+        "Đai lưng may liền, không viền, tạo cảm giác thoải mái và phù hợp với vóc dáng nam giới Việt",
+        "Công nghệ may Flat-out Stream đảm bảo sự co dãn và êm ái nhẹ nhàng cho phần da vùng nhạy cảm",
+        "Tự hào sản xuất tại Việt Nam",
+        "Người mẫu: 1m80 - 75kg, mặc áo XL"
+      ]
+    },
+    {
+      "id": 52,
+      "linkImg": [
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=85,format=auto/uploads/January2022/trang_den_nho.jpg",
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=85,format=auto/uploads/January2022/blac2_copy.jpg" 
+        ],  
+        "evalue": "5*",
+      "purchases": "(77)",
+      "save": "Saving pack",
+      "code": "HDHHH1",
+      "producname": "Quần đùi ",
+      "size": ["M", "L", "XL", "2XL", "3XL"],
+      "color": [
+        "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/August2022/3lo_da_troi_6.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/August2022/3lo_trang_6.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/June2022/1DSC04774-Edit-copy_32_96.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/June2022/1DSC04648-copy_70.jpg"
+      ],
+      "detailproduct": "Combo 5 Áo thun nam 100% Cotton Coolmate Basics - Trắng Đen",
+      "price_1": 299.000,  
+      "main_price":56,   
+      "type": "Mặc hàng ngày",
+      "sold": "Đã bán(web): 1234",
+      "soldtow": "Mua 2 chỉ còn 249k/chiếc",
+      "salientfeatures":[
+        "Chất liệu 95% Cotton Compact - 5% Spandex tạo sự mềm mại và thoáng mát",
+        "ĐỊnh lượng 170gsm mỏng hơn Cotton Compact thường",
+        "Đai lưng may liền, không viền, tạo cảm giác thoải mái và phù hợp với vóc dáng nam giới Việt",
+        "Công nghệ may Flat-out Stream đảm bảo sự co dãn và êm ái nhẹ nhàng cho phần da vùng nhạy cảm",
+        "Tự hào sản xuất tại Việt Nam",
+        "Người mẫu: 1m80 - 75kg, mặc áo XL"
+      ]
+    },
+    {
+      "id": 53,
+      "linkImg": [
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=85,format=auto/uploads/January2022/trang_den_nho.jpg",
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=85,format=auto/uploads/January2022/blac2_copy.jpg" 
+        ],  
+        "evalue": "5*",
+      "purchases": "(77)",
+      "save": "Saving pack",
+      "code": "HDHHH1",
+      "producname": "Quần đùi ",
+      "size": ["M", "L", "XL", "2XL", "3XL"],
+      "color": [
+        "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/August2022/3lo_da_troi_6.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/August2022/3lo_trang_6.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/June2022/1DSC04774-Edit-copy_32_96.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/June2022/1DSC04648-copy_70.jpg"
+      ],
+      "detailproduct": "Combo 5 Áo thun nam 100% Cotton Coolmate Basics - Trắng Đen",
+      "price_1": 299.000,  
+      "main_price":595,   
+      "type": "Mặc hàng ngày",
+      "sold": "Đã bán(web): 1234",
+      "soldtow": "Mua 2 chỉ còn 249k/chiếc",
+      "salientfeatures":[
+        "Chất liệu 95% Cotton Compact - 5% Spandex tạo sự mềm mại và thoáng mát",
+        "ĐỊnh lượng 170gsm mỏng hơn Cotton Compact thường",
+        "Đai lưng may liền, không viền, tạo cảm giác thoải mái và phù hợp với vóc dáng nam giới Việt",
+        "Công nghệ may Flat-out Stream đảm bảo sự co dãn và êm ái nhẹ nhàng cho phần da vùng nhạy cảm",
+        "Tự hào sản xuất tại Việt Nam",
+        "Người mẫu: 1m80 - 75kg, mặc áo XL"
+      ]
+    },
+   
+    {
+      "id": 70,
+      "linkImg": [
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=85,format=auto/uploads/January2022/trang_den_nho.jpg",
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=85,format=auto/uploads/January2022/blac2_copy.jpg" 
+        ],  
+        "evalue": "5*",
+      "purchases": "(77)",
+      "save": "Saving pack",
+      "code": "HDHHH1",
+      "producname": "Quần đùi ",
+      "size": ["M", "L", "XL", "2XL", "3XL"],
+      "color": [
+        "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/August2022/3lo_da_troi_6.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/August2022/3lo_trang_6.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/June2022/1DSC04774-Edit-copy_32_96.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/June2022/1DSC04648-copy_70.jpg"
+      ],
+      "detailproduct": "Combo 5 Áo thun nam 100% Cotton Coolmate Basics - Trắng Đen",
+      "price_1": 299.000,  
+      "main_price":190,
+      "type": "Mặc hàng ngày",
+      "sold": "Đã bán(web): 1234",
+      "soldtow": "Mua 2 chỉ còn 249k/chiếc",
+      "salientfeatures":[
+        "Chất liệu 95% Cotton Compact - 5% Spandex tạo sự mềm mại và thoáng mát",
+        "ĐỊnh lượng 170gsm mỏng hơn Cotton Compact thường",
+        "Đai lưng may liền, không viền, tạo cảm giác thoải mái và phù hợp với vóc dáng nam giới Việt",
+        "Công nghệ may Flat-out Stream đảm bảo sự co dãn và êm ái nhẹ nhàng cho phần da vùng nhạy cảm",
+        "Tự hào sản xuất tại Việt Nam",
+        "Người mẫu: 1m80 - 75kg, mặc áo XL"
+      ]
+    },
+    
+    {
+      "id": 54,
+      "linkImg": [
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=85,format=auto/uploads/January2022/trang_den_nho.jpg",
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=85,format=auto/uploads/January2022/blac2_copy.jpg" 
+        ],  
+        "evalue": "5*",
+      "purchases": "(77)",
+      "save": "Saving pack",
+      "code": "HDHHH1",
+      "producname": "Quần đùi ",
+      "size": ["M", "L", "XL", "2XL", "3XL"],
+      "color": [
+        "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/August2022/3lo_da_troi_6.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/August2022/3lo_trang_6.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/June2022/1DSC04774-Edit-copy_32_96.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/June2022/1DSC04648-copy_70.jpg"
+      ],
+      "detailproduct": "Combo 5 Áo thun nam 100% Cotton Coolmate Basics - Trắng Đen",
+      "price_1": 299.000,   
+      "main_price":179,
+      "type": "Mặc hàng ngày",
+      "sold": "Đã bán(web): 1234",
+      "soldtow": "Mua 2 chỉ còn 249k/chiếc",
+      "salientfeatures":[
+        "Chất liệu 95% Cotton Compact - 5% Spandex tạo sự mềm mại và thoáng mát",
+        "ĐỊnh lượng 170gsm mỏng hơn Cotton Compact thường",
+        "Đai lưng may liền, không viền, tạo cảm giác thoải mái và phù hợp với vóc dáng nam giới Việt",
+        "Công nghệ may Flat-out Stream đảm bảo sự co dãn và êm ái nhẹ nhàng cho phần da vùng nhạy cảm",
+        "Tự hào sản xuất tại Việt Nam",
+        "Người mẫu: 1m80 - 75kg, mặc áo XL"
+      ]
+    },
+    {
+      "id": 63,
+      "linkImg": [
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=85,format=auto/uploads/January2022/trang_den_nho.jpg",
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=85,format=auto/uploads/January2022/blac2_copy.jpg" 
+        ],  
+        "evalue": "5*",
+      "purchases": "(77)",
+      "save": "Saving pack",
+      "code": "HDHHH1",
+      "producname": "Quần đùi ",
+      "size": ["M", "L", "XL", "2XL", "3XL"],
+      "color": [
+        "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/August2022/3lo_da_troi_6.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/August2022/3lo_trang_6.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/June2022/1DSC04774-Edit-copy_32_96.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/June2022/1DSC04648-copy_70.jpg"
+      ],
+      "detailproduct": "Combo 5 Áo thun nam 100% Cotton Coolmate Basics - Trắng Đen",
+      "price_1": 299.000,     
+      "main_price":234,
+      "type": "Mặc hàng ngày",
+      "sold": "Đã bán(web): 1234",
+      "soldtow": "Mua 2 chỉ còn 249k/chiếc",
+      "salientfeatures":[
+        "Chất liệu 95% Cotton Compact - 5% Spandex tạo sự mềm mại và thoáng mát",
+        "ĐỊnh lượng 170gsm mỏng hơn Cotton Compact thường",
+        "Đai lưng may liền, không viền, tạo cảm giác thoải mái và phù hợp với vóc dáng nam giới Việt",
+        "Công nghệ may Flat-out Stream đảm bảo sự co dãn và êm ái nhẹ nhàng cho phần da vùng nhạy cảm",
+        "Tự hào sản xuất tại Việt Nam",
+        "Người mẫu: 1m80 - 75kg, mặc áo XL"
+      ]
+    },{
+      "id": 55,
+      "linkImg": [
+        "https://www.coolmate.me/product/quan-the-thao-nam-promax-s1?itm_source=home-highlight-product",
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=100,format=auto/uploads/April2022/quanpromax_6.jpg"
+      ],
+      "evalue": "5*",
+      "purchases": "(77)",
+      "save": "Saving pack",
+
+      "code": "HDHHH1",
+      "producname": "Quần đùi ",
+      "sale": "25%",
+      "size": ["M", "L", "XL", "2XL", "3XL"],
+      "color": [
+        "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/August2022/3lo_da_troi_6.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/August2022/3lo_trang_6.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/June2022/1DSC04774-Edit-copy_32_96.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/June2022/1DSC04648-copy_70.jpg"
+      ],
+      "detailproduct": "Combo 2 quần shortnam thể thao Movement5 co giãn",
+      "price_1": 299.000,
+      "main_price":399,
+      "type": "Đồ thể thao",
+      "sold": "Đã bán(web): 1234",
+      "sold-tow": "Mua 2 chỉ còn 249k/chiếc",
+      "salientfeatures":[
+        "Chất liệu 95% Cotton Compact - 5% Spandex tạo sự mềm mại và thoáng mát",
+        "ĐỊnh lượng 170gsm mỏng hơn Cotton Compact thường",
+        "Đai lưng may liền, không viền, tạo cảm giác thoải mái và phù hợp với vóc dáng nam giới Việt",
+        "Công nghệ may Flat-out Stream đảm bảo sự co dãn và êm ái nhẹ nhàng cho phần da vùng nhạy cảm",
+        "Tự hào sản xuất tại Việt Nam",
+        "Người mẫu: 1m80 - 75kg, mặc áo XL"
+      ]
+    },
+    {
+      "id": 56,
+      "linkImg": [
+        "https://www.coolmate.me/product/quan-the-thao-nam-promax-s1?itm_source=home-highlight-product",
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=100,format=auto/uploads/April2022/quanpromax_6.jpg"
+      ],
+      "evalue": "5*",
+      "purchases": "(77)",
+      "save": "Saving pack",
+
+      "code": "HDHHH1",
+      "producname": "Quần đùi ",
+      "sale": "25%",
+      "size": ["M", "L", "XL", "2XL", "3XL"],
+      "color": [
+        "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/August2022/3lo_da_troi_6.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/August2022/3lo_trang_6.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/June2022/1DSC04774-Edit-copy_32_96.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/June2022/1DSC04648-copy_70.jpg"
+      ],
+      "detailproduct": "Combo 2 quần shortnam thể thao Movement5 co giãn",
+      "price_1": 299.000,
+      "main_price":399,
+      "type": "Đồ thể thao",
+      "sold": "Đã bán(web): 1234",
+      "sold-tow": "Mua 2 chỉ còn 249k/chiếc",
+      "salientfeatures":[
+        "Chất liệu 95% Cotton Compact - 5% Spandex tạo sự mềm mại và thoáng mát",
+        "ĐỊnh lượng 170gsm mỏng hơn Cotton Compact thường",
+        "Đai lưng may liền, không viền, tạo cảm giác thoải mái và phù hợp với vóc dáng nam giới Việt",
+        "Công nghệ may Flat-out Stream đảm bảo sự co dãn và êm ái nhẹ nhàng cho phần da vùng nhạy cảm",
+        "Tự hào sản xuất tại Việt Nam",
+        "Người mẫu: 1m80 - 75kg, mặc áo XL"
+      ]
+    },
+    {
+      "id": 57,
+      "linkImg": [
+        "https://www.coolmate.me/product/quan-the-thao-nam-promax-s1?itm_source=home-highlight-product",
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=100,format=auto/uploads/April2022/quanpromax_6.jpg"
+      ],
+      "evalue": "5*",
+      "purchases": "(77)",
+      "save": "Saving pack",
+
+      "code": "HDHHH1",
+      "producname": "Quần đùi ",
+      "sale": "25%",
+      "size": ["M", "L", "XL", "2XL", "3XL"],
+      "color": [
+        "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/August2022/3lo_da_troi_6.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/August2022/3lo_trang_6.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/June2022/1DSC04774-Edit-copy_32_96.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/June2022/1DSC04648-copy_70.jpg"
+      ],
+      "detailproduct": "Combo 2 quần shortnam thể thao Movement5 co giãn",
+      "price_1": 299.000,
+      "main_price":399,
+      "type": "Đồ thể thao",
+      "sold": "Đã bán(web): 1234",
+      "sold-tow": "Mua 2 chỉ còn 249k/chiếc",
+      "salientfeatures":[
+        "Chất liệu 95% Cotton Compact - 5% Spandex tạo sự mềm mại và thoáng mát",
+        "ĐỊnh lượng 170gsm mỏng hơn Cotton Compact thường",
+        "Đai lưng may liền, không viền, tạo cảm giác thoải mái và phù hợp với vóc dáng nam giới Việt",
+        "Công nghệ may Flat-out Stream đảm bảo sự co dãn và êm ái nhẹ nhàng cho phần da vùng nhạy cảm",
+        "Tự hào sản xuất tại Việt Nam",
+        "Người mẫu: 1m80 - 75kg, mặc áo XL"
+      ]
+    },
+    {
+      "id": 58,
+      "linkImg": [
+        "https://www.coolmate.me/product/quan-the-thao-nam-promax-s1?itm_source=home-highlight-product",
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=100,format=auto/uploads/April2022/quanpromax_6.jpg"
+      ],
+      "evalue": "5*",
+      "purchases": "(77)",
+      "save": "Saving pack",
+
+      "code": "HDHHH1",
+      "producname": "Quần đùi ",
+      "sale": "25%",
+      "size": ["M", "L", "XL", "2XL", "3XL"],
+      "color": [
+        "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/August2022/3lo_da_troi_6.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/August2022/3lo_trang_6.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/June2022/1DSC04774-Edit-copy_32_96.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/June2022/1DSC04648-copy_70.jpg"
+      ],
+      "detailproduct": "Combo 2 quần shortnam thể thao Movement5 co giãn",
+      "price_1": 299.000,
+      "main_price":399,
+      "type": "Đồ thể thao",
+      "sold": "Đã bán(web): 1234",
+      "sold-tow": "Mua 2 chỉ còn 249k/chiếc",
+      "salientfeatures":[
+        "Chất liệu 95% Cotton Compact - 5% Spandex tạo sự mềm mại và thoáng mát",
+        "ĐỊnh lượng 170gsm mỏng hơn Cotton Compact thường",
+        "Đai lưng may liền, không viền, tạo cảm giác thoải mái và phù hợp với vóc dáng nam giới Việt",
+        "Công nghệ may Flat-out Stream đảm bảo sự co dãn và êm ái nhẹ nhàng cho phần da vùng nhạy cảm",
+        "Tự hào sản xuất tại Việt Nam",
+        "Người mẫu: 1m80 - 75kg, mặc áo XL"
+      ]
+    },
+    {
+      "id": 59,
+      "linkImg": [
+        "https://www.coolmate.me/product/quan-the-thao-nam-promax-s1?itm_source=home-highlight-product",
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=100,format=auto/uploads/April2022/quanpromax_6.jpg"
+      ],
+      "evalue": "5*",
+      "purchases": "(77)",
+      "save": "Saving pack",
+
+      "code": "HDHHH1",
+      "producname": "Quần đùi ",
+      "sale": "25%",
+      "size": ["M", "L", "XL", "2XL", "3XL"],
+      "color": [
+        "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/August2022/3lo_da_troi_6.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/August2022/3lo_trang_6.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/June2022/1DSC04774-Edit-copy_32_96.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/June2022/1DSC04648-copy_70.jpg"
+      ],
+      "detailproduct": "Combo 2 quần shortnam thể thao Movement5 co giãn",
+      "price_1": 299.000,
+      "main_price": 399,
+      "type": "Quần nam",
+      "sold": "Đã bán(web): 1234",
+      "sold-tow": "Mua 2 chỉ còn 249k/chiếc",
+      "salientfeatures":[
+        "Chất liệu 95% Cotton Compact - 5% Spandex tạo sự mềm mại và thoáng mát",
+        "ĐỊnh lượng 170gsm mỏng hơn Cotton Compact thường",
+        "Đai lưng may liền, không viền, tạo cảm giác thoải mái và phù hợp với vóc dáng nam giới Việt",
+        "Công nghệ may Flat-out Stream đảm bảo sự co dãn và êm ái nhẹ nhàng cho phần da vùng nhạy cảm",
+        "Tự hào sản xuất tại Việt Nam",
+        "Người mẫu: 1m80 - 75kg, mặc áo XL"
+      ]
+    },
+    {
+      "id": 60,
+      "linkImg": [
+        "https://www.coolmate.me/product/quan-the-thao-nam-promax-s1?itm_source=home-highlight-product",
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=100,format=auto/uploads/April2022/quanpromax_6.jpg"
+      ],
+      "evalue": "5*",
+      "purchases": "(77)",
+      "save": "Saving pack",
+
+      "code": "HDHHH1",
+      "producname": "Quần đùi ",
+      "sale": "25%",
+      "size": ["M", "L", "XL", "2XL", "3XL"],
+      "color": [
+        "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/August2022/3lo_da_troi_6.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/August2022/3lo_trang_6.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/June2022/1DSC04774-Edit-copy_32_96.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/June2022/1DSC04648-copy_70.jpg"
+      ],
+      "detailproduct": "Combo 2 quần shortnam thể thao Movement5 co giãn",
+      "price_1": 299.000,
+      "main_price": 399,
+      "type": "Quần nam",
+      "sold": "Đã bán(web): 1234",
+      "sold-tow": "Mua 2 chỉ còn 249k/chiếc",
+      "salientfeatures":[
+        "Chất liệu 95% Cotton Compact - 5% Spandex tạo sự mềm mại và thoáng mát",
+        "ĐỊnh lượng 170gsm mỏng hơn Cotton Compact thường",
+        "Đai lưng may liền, không viền, tạo cảm giác thoải mái và phù hợp với vóc dáng nam giới Việt",
+        "Công nghệ may Flat-out Stream đảm bảo sự co dãn và êm ái nhẹ nhàng cho phần da vùng nhạy cảm",
+        "Tự hào sản xuất tại Việt Nam",
+        "Người mẫu: 1m80 - 75kg, mặc áo XL"
+      ]
+    },
+    {
+      "id": 61,
+      "linkImg": [
+        "https://www.coolmate.me/product/quan-the-thao-nam-promax-s1?itm_source=home-highlight-product",
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=100,format=auto/uploads/April2022/quanpromax_6.jpg"
+      ],
+      "evalue": "5*",
+      "purchases": "(77)",
+      "save": "Saving pack",
+
+      "code": "HDHHH1",
+      "producname": "Quần đùi ",
+      "sale": "25%",
+      "size": ["M", "L", "XL", "2XL", "3XL"],
+      "color": [
+        "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/August2022/3lo_da_troi_6.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/August2022/3lo_trang_6.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/June2022/1DSC04774-Edit-copy_32_96.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/June2022/1DSC04648-copy_70.jpg"
+      ],
+      "detailproduct": "Combo 2 quần shortnam thể thao Movement5 co giãn",
+      "price_1": 299.000,
+      "main_price":399,
+      "type": "Quần nam",
+      "sold": "Đã bán(web): 1234",
+      "sold-tow": "Mua 2 chỉ còn 249k/chiếc",
+      "salientfeatures":[
+        "Chất liệu 95% Cotton Compact - 5% Spandex tạo sự mềm mại và thoáng mát",
+        "ĐỊnh lượng 170gsm mỏng hơn Cotton Compact thường",
+        "Đai lưng may liền, không viền, tạo cảm giác thoải mái và phù hợp với vóc dáng nam giới Việt",
+        "Công nghệ may Flat-out Stream đảm bảo sự co dãn và êm ái nhẹ nhàng cho phần da vùng nhạy cảm",
+        "Tự hào sản xuất tại Việt Nam",
+        "Người mẫu: 1m80 - 75kg, mặc áo XL"
+      ]
+    },
+    {
+      "id": 62,
+      "linkImg": [
+        "https://www.coolmate.me/product/quan-the-thao-nam-promax-s1?itm_source=home-highlight-product",
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=100,format=auto/uploads/April2022/quanpromax_6.jpg"
+      ],
+      "evalue": "5*",
+      "purchases": "(77)",
+      "save": "Saving pack",
+
+      "code": "HDHHH1",
+      "producname": "Quần Dài ",
+      "sale": "25%",
+      "size": ["M", "L", "XL", "2XL", "3XL"],     
+      "detailproduct": "Combo 2 quần shortnam thể thao Movement5 co giãn",
+      "price_1": 299.000,
+      "main_price": 399,
+      "type": "Quần-nam",
+      "sold": "Đã bán(web): 1234",
+      "sold-tow": "Mua 2 chỉ còn 249k/chiếc",
+      "salientfeatures":[
+        "Chất liệu 95% Cotton Compact - 5% Spandex tạo sự mềm mại và thoáng mát",
+        "ĐỊnh lượng 170gsm mỏng hơn Cotton Compact thường",
+        "Đai lưng may liền, không viền, tạo cảm giác thoải mái và phù hợp với vóc dáng nam giới Việt",
+        "Công nghệ may Flat-out Stream đảm bảo sự co dãn và êm ái nhẹ nhàng cho phần da vùng nhạy cảm",
+        "Tự hào sản xuất tại Việt Nam",
+        "Người mẫu: 1m80 - 75kg, mặc áo XL"
+      ]
+    },
+    {
+      "id": 63,
+      "linkImg": [
+        "https://www.coolmate.me/product/quan-the-thao-nam-promax-s1?itm_source=home-highlight-product",
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=85,format=auto/uploads/November2022/jean-slimfit-xanh-sang-1_58.jpg"
+      ],
+      "evalue": "5*",
+      "purchases": "(77)",
+      "save": "Saving pack",
+      "code": "HDHHH1",
+      "producname": "Quần Dài ",
+      "sale": "25%",
+      "size": ["M", "L", "XL", "2XL", "3XL"],
+      "color": [
+        "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/August2022/3lo_da_troi_6.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/August2022/3lo_trang_6.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/June2022/1DSC04774-Edit-copy_32_96.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/June2022/1DSC04648-copy_70.jpg"
+      ],
+      "detailproduct": "Quần Jeans Basic Slimfit xé gối - màu Xanh nhạt",
+      "price_1": 299.000,
+      "main_price": 399,
+      "type": "Quần Đùi",  
+     "salientfeatures":[
+        "Chất liệu 95% Cotton Compact - 5% Spandex tạo sự mềm mại và thoáng mát",
+        "ĐỊnh lượng 170gsm mỏng hơn Cotton Compact thường",
+        "Đai lưng may liền, không viền, tạo cảm giác thoải mái và phù hợp với vóc dáng nam giới Việt",
+        "Công nghệ may Flat-out Stream đảm bảo sự co dãn và êm ái nhẹ nhàng cho phần da vùng nhạy cảm",
+        "Tự hào sản xuất tại Việt Nam",
+        "Người mẫu: 1m80 - 75kg, mặc áo XL"
+      ]
+    },
+    {
+      "id": 64,
+      "linkImg": [
+        "https://www.coolmate.me/product/quan-the-thao-nam-promax-s1?itm_source=home-highlight-product",
+        "https://www.coolmate.me/product/quan-jeans-basic-slimfit?color=den"
+      ],     
+      "code": "HDHHH1",
+      "producname": "Quần Dài ",
+      "sale": "25%",
+      "size": ["M", "L", "XL", "2XL", "3XL"],
+      "color": [
+        "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/August2022/3lo_da_troi_6.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/August2022/3lo_trang_6.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/June2022/1DSC04774-Edit-copy_32_96.jpg",
+                "https://media.coolmate.me/cdn-cgi/image/width=80,height=80,quality=80,format=auto/uploads/June2022/1DSC04648-copy_70.jpg"
+      ],
+      "detailproduct": "Quần Jeans Basic Slimfit - Đen",
+      "price_1": 299.000,
+      "main_price": 379,
+      "type": "Quần nam",
+      "sold": "Đã bán(web): 1234",
+      "sold-tow": "Mua 2 chỉ còn 249k/chiếc",
+      "salientfeatures":[
+        "Chất liệu 95% Cotton Compact - 5% Spandex tạo sự mềm mại và thoáng mát",
+        "ĐỊnh lượng 170gsm mỏng hơn Cotton Compact thường",
+        "Đai lưng may liền, không viền, tạo cảm giác thoải mái và phù hợp với vóc dáng nam giới Việt",
+        "Công nghệ may Flat-out Stream đảm bảo sự co dãn và êm ái nhẹ nhàng cho phần da vùng nhạy cảm",
+        "Tự hào sản xuất tại Việt Nam",
+        "Người mẫu: 1m80 - 75kg, mặc áo XL"
+      ]
+    },
+    {
+      "id": 65,
+      "linkImg": [
+        "https://www.coolmate.me/product/quan-the-thao-nam-promax-s1?itm_source=home-highlight-product",
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=85,format=auto/uploads/November2022/jean-slimfit-xanh-dam-1.jpg"
+      ],     
+      "code": "HDHHH1",
+      "producname": "Quần Dài ",
+      "sale": "-25%",
+      "size": ["M", "L", "XL", "2XL", "3XL"],
+      
+      "detailproduct": "Quần Jeans Basic Slimfit - Xanh đậm",
+      "price_1": 399.000,
+      "main_price": 379,
+      "type": "Quần Dài",
+      "salientfeatures":[
+        "Chất liệu 95% Cotton Compact - 5% Spandex tạo sự mềm mại và thoáng mát",
+        "ĐỊnh lượng 170gsm mỏng hơn Cotton Compact thường",
+        "Đai lưng may liền, không viền, tạo cảm giác thoải mái và phù hợp với vóc dáng nam giới Việt",
+        "Công nghệ may Flat-out Stream đảm bảo sự co dãn và êm ái nhẹ nhàng cho phần da vùng nhạy cảm",
+        "Tự hào sản xuất tại Việt Nam",
+        "Người mẫu: 1m80 - 75kg, mặc áo XL"
+      ]
+    },
+    {
+      "id": 66,
+      "linkImg": [
+        "https://www.coolmate.me/product/quan-the-thao-nam-promax-s1?itm_source=home-highlight-product",
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=85,format=auto/uploads/November2022/jean-skinny-slimfit-den-1.jpg"
+      ],
+      "code": "HDHHH1",
+      "producname": "Quần Dài ",
+      "sale": "25%",
+      "size": ["M", "L", "XL", "2XL", "3XL"],     
+      "detailproduct": "Quần Jeans Skinny Fit - Đenn",
+      "price_1": 299.000,
+      "main_price":399,
+      "type": "Quần Dài",
+      "sold": "Đã bán(web): 1234",
+      "sold-tow": "Mua 2 chỉ còn 249k/chiếc",
+      "salientfeatures":[
+        "Chất liệu 95% Cotton Compact - 5% Spandex tạo sự mềm mại và thoáng mát",
+        "ĐỊnh lượng 170gsm mỏng hơn Cotton Compact thường",
+        "Đai lưng may liền, không viền, tạo cảm giác thoải mái và phù hợp với vóc dáng nam giới Việt",
+        "Công nghệ may Flat-out Stream đảm bảo sự co dãn và êm ái nhẹ nhàng cho phần da vùng nhạy cảm",
+        "Tự hào sản xuất tại Việt Nam",
+        "Người mẫu: 1m80 - 75kg, mặc áo XL"
+      ]
+    },
+    {
+      "id": 67,
+      "linkImg": [
+        "https://www.coolmate.me/product/quan-the-thao-nam-promax-s1?itm_source=home-highlight-product",
+        "https://www.coolmate.me/product/quan-jeans-skinny-fit?color=xam-den"
+      ],   
+      "sale": "-25%",
+      "size": ["M", "L", "XL", "2XL", "3XL"],     
+      "detailproduct": "Quần Jeans Skinny Fit - Xám đen",
+      "price_1": 299.000,
+      "main_price":399,
+      "type": "Quần Dài",
+      "sold": "Đã bán(web): 1234",
+      "sold-tow": "Mua 2 chỉ còn 249k/chiếc",
+      "salientfeatures":[
+        "Chất liệu 95% Cotton Compact - 5% Spandex tạo sự mềm mại và thoáng mát",
+        "ĐỊnh lượng 170gsm mỏng hơn Cotton Compact thường",
+        "Đai lưng may liền, không viền, tạo cảm giác thoải mái và phù hợp với vóc dáng nam giới Việt",
+        "Công nghệ may Flat-out Stream đảm bảo sự co dãn và êm ái nhẹ nhàng cho phần da vùng nhạy cảm",
+        "Tự hào sản xuất tại Việt Nam",
+        "Người mẫu: 1m80 - 75kg, mặc áo XL"
+      ]
+    },
+    {
+      "id": 68,
+      "linkImg": [
+        "https://www.coolmate.me/product/quan-the-thao-nam-promax-s1?itm_source=home-highlight-product",
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=85,format=auto/uploads/June2022/xamdenDSC00016.jpg"
+      ],   
+      "sale": "-16%",
+      "size": ["M", "L", "XL", "2XL", "3XL"],     
+      "detailproduct": "Quần dài Kaki Excool co giãn - Xám đen",
+      "price_1": 499.000,
+      "main_price":399,
+      "type": "Quần Dài",
+      "sold": "Đã bán(web): 1234",
+      "sold-tow": "Mua 2 chỉ còn 249k/chiếc",
+      "salientfeatures":[
+        "Chất liệu 95% Cotton Compact - 5% Spandex tạo sự mềm mại và thoáng mát",
+        "ĐỊnh lượng 170gsm mỏng hơn Cotton Compact thường",
+        "Đai lưng may liền, không viền, tạo cảm giác thoải mái và phù hợp với vóc dáng nam giới Việt",
+        "Công nghệ may Flat-out Stream đảm bảo sự co dãn và êm ái nhẹ nhàng cho phần da vùng nhạy cảm",
+        "Tự hào sản xuất tại Việt Nam",
+        "Người mẫu: 1m80 - 75kg, mặc áo XL"
+      ]
+    },
+    {
+      "id": 69,
+      "linkImg": [
+        "https://www.coolmate.me/product/quan-the-thao-nam-promax-s1?itm_source=home-highlight-product",
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=85,format=auto/uploads/March2022/1-copy-4_23.jpg"
+      ],   
+      "sale": "-16%",
+      "size": ["M", "L", "XL", "2XL", "3XL"],     
+      "detailproduct": "Quần dài Kaki Excool co giãn - Beige",
+      "price_1": 499.000,
+      "main_price":419,
+      "type": "Quần Dài",
+   
+      "salientfeatures":[
+        "Chất liệu 95% Cotton Compact - 5% Spandex tạo sự mềm mại và thoáng mát",
+        "ĐỊnh lượng 170gsm mỏng hơn Cotton Compact thường",
+        "Đai lưng may liền, không viền, tạo cảm giác thoải mái và phù hợp với vóc dáng nam giới Việt",
+        "Công nghệ may Flat-out Stream đảm bảo sự co dãn và êm ái nhẹ nhàng cho phần da vùng nhạy cảm",
+        "Tự hào sản xuất tại Việt Nam",
+        "Người mẫu: 1m80 - 75kg, mặc áo XL"
+      ]
+    },
+    {
+      "id": 70,
+      "linkImg": [
+        "https://www.coolmate.me/product/quan-the-thao-nam-promax-s1?itm_source=home-highlight-product",
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=85,format=auto/uploads/June2022/1DSC00016_34.jpg"
+      ],   
+      "sale": "-16%",
+      "size": ["M", "L", "XL", "2XL", "3XL"],     
+      "detailproduct": "Quần dài Kaki Excool co giãn - Xanh đậm",
+      "price_1": 499.000,
+      "main_price":419,
+      "type": "Quần Dài",
+      "sold": "Đã bán(web): 1234",
+   
+      "salientfeatures":[
+        "Chất liệu 95% Cotton Compact - 5% Spandex tạo sự mềm mại và thoáng mát",
+        "ĐỊnh lượng 170gsm mỏng hơn Cotton Compact thường",
+        "Đai lưng may liền, không viền, tạo cảm giác thoải mái và phù hợp với vóc dáng nam giới Việt",
+        "Công nghệ may Flat-out Stream đảm bảo sự co dãn và êm ái nhẹ nhàng cho phần da vùng nhạy cảm",
+        "Tự hào sản xuất tại Việt Nam",
+        "Người mẫu: 1m80 - 75kg, mặc áo XL"
+      ]
+    },
+    {
+      "id": 71,
+      "linkImg": [
+        "https://www.coolmate.me/product/quan-the-thao-nam-promax-s1?itm_source=home-highlight-product",
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=85,format=auto/uploads/February2022/soronanavyu_32.jpg"
+      ],   
+      "sale": "-16%",
+      "size": ["M", "L", "XL", "2XL", "3XL"],     
+      "detailproduct": "Quần nam Daily Pants - sợi Sorona, nhuộm Cleandye - Xanh Navy",
+      "sold-tow": "Mua 2 chỉ còn 249k/chiếc",
+      "main_price":299,
+      "type": "Quần Dài",
+      "sold": "Đã bán(web): 1234",  
+      "salientfeatures":[
+        "Chất liệu 95% Cotton Compact - 5% Spandex tạo sự mềm mại và thoáng mát",
+        "ĐỊnh lượng 170gsm mỏng hơn Cotton Compact thường",
+        "Đai lưng may liền, không viền, tạo cảm giác thoải mái và phù hợp với vóc dáng nam giới Việt",
+        "Công nghệ may Flat-out Stream đảm bảo sự co dãn và êm ái nhẹ nhàng cho phần da vùng nhạy cảm",
+        "Tự hào sản xuất tại Việt Nam",
+        "Người mẫu: 1m80 - 75kg, mặc áo XL"
+      ]
+    },
+    {
+      "id": 72,
+      "linkImg": [
+        "https://www.coolmate.me/product/quan-the-thao-nam-promax-s1?itm_source=home-highlight-product",
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=85,format=auto/uploads/February2022/uxamsoro_copy.jpg"
+      ], 
+      "sold-tow": "Mua 2 chỉ còn 249k/chiếc",  
+      "sale": "-16%",
+      "size": ["M", "L", "XL", "2XL", "3XL"],     
+      "detailproduct": "Quần nam Daily Pants - sợi Sorona, nhuộm Cleandye - Xám xanh",  
+      "main_price":219,
+      "type": "Quần Dài",
+      "sold": "Đã bán(web): 1234",  
+      "salientfeatures":[
+        "Chất liệu 95% Cotton Compact - 5% Spandex tạo sự mềm mại và thoáng mát",
+        "ĐỊnh lượng 170gsm mỏng hơn Cotton Compact thường",
+        "Đai lưng may liền, không viền, tạo cảm giác thoải mái và phù hợp với vóc dáng nam giới Việt",
+        "Công nghệ may Flat-out Stream đảm bảo sự co dãn và êm ái nhẹ nhàng cho phần da vùng nhạy cảm",
+        "Tự hào sản xuất tại Việt Nam",
+        "Người mẫu: 1m80 - 75kg, mặc áo XL"
+      ]
+      
+    },
+    {
+      "id": 73,
+      "linkImg": [
+        "https://www.coolmate.me/product/quan-the-thao-nam-promax-s1?itm_source=home-highlight-product",
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=85,format=auto/uploads/February2022/udensoro_copy.jpg"
+      ],   
+      "sale": "-16%",
+      "size": ["M", "L", "XL", "2XL", "3XL"],     
+      "detailproduct": "Quần nam Daily Pants - sợi Sorona, nhuộm Cleandye - Đen",
+      "price_1": 499.000,
+      "main_price":419,
+      "type": "Quần Dài",
+      "sold": "Đã bán(web): 1234",
+      "sold-tow": "Mua 2 chỉ còn 249k/chiếc",
+      "salientfeatures":[
+        "Chất liệu 95% Cotton Compact - 5% Spandex tạo sự mềm mại và thoáng mát",
+        "ĐỊnh lượng 170gsm mỏng hơn Cotton Compact thường",
+        "Đai lưng may liền, không viền, tạo cảm giác thoải mái và phù hợp với vóc dáng nam giới Việt",
+        "Công nghệ may Flat-out Stream đảm bảo sự co dãn và êm ái nhẹ nhàng cho phần da vùng nhạy cảm",
+        "Tự hào sản xuất tại Việt Nam",
+        "Người mẫu: 1m80 - 75kg, mặc áo XL"
+      ]
+    },
+    {
+      "id": 74,
+      "linkImg": [
+        "https://www.coolmate.me/product/quan-the-thao-nam-promax-s1?itm_source=home-highlight-product",
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=85,format=auto/uploads/October2022/quan-ni-jogger-casual-xam.jpg"
+      ],   
+      "sale": "-16%",
+      "size": ["M", "L", "XL", "2XL", "3XL"],     
+      "detailproduct": "Quần dài Kaki Excool co giãn - Xanh đậm",   
+      "main_price":419,
+      "type": "Quần Dài",
+      "sold": "Đã bán(web): 1234", 
+      "sold-tow": "Mua 2 chỉ còn 249k/chiếc",
+      "salientfeatures":[
+        "Chất liệu 95% Cotton Compact - 5% Spandex tạo sự mềm mại và thoáng mát",
+        "ĐỊnh lượng 170gsm mỏng hơn Cotton Compact thường",
+        "Đai lưng may liền, không viền, tạo cảm giác thoải mái và phù hợp với vóc dáng nam giới Việt",
+        "Công nghệ may Flat-out Stream đảm bảo sự co dãn và êm ái nhẹ nhàng cho phần da vùng nhạy cảm",
+        "Tự hào sản xuất tại Việt Nam",
+        "Người mẫu: 1m80 - 75kg, mặc áo XL"
+      ]
+    },
+    {
+      "id": 75,
+      "linkImg": [
+        "https://www.coolmate.me/product/quan-the-thao-nam-promax-s1?itm_source=home-highlight-product",
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=85,format=auto/uploads/August2022/Tank_xam_dam_2d.jpg"
+      ],   
+    
+      "size": ["M", "L", "XL", "2XL", "3XL"],     
+      "detailproduct": "Áo-Tank-top thể thao nam Recycle Active V1 - Xám đậm",   
+      "main_price":419,
+      "type": "Áo-Tank-top",
+      "sold": "Đã bán(web): 1234", 
+      "sold-tow": "Mua 2 chỉ còn 249k/chiếc",
+      "salientfeatures":[
+        "Chất liệu 95% Cotton Compact - 5% Spandex tạo sự mềm mại và thoáng mát",
+        "ĐỊnh lượng 170gsm mỏng hơn Cotton Compact thường",
+        "Đai lưng may liền, không viền, tạo cảm giác thoải mái và phù hợp với vóc dáng nam giới Việt",
+        "Công nghệ may Flat-out Stream đảm bảo sự co dãn và êm ái nhẹ nhàng cho phần da vùng nhạy cảm",
+        "Tự hào sản xuất tại Việt Nam",
+        "Người mẫu: 1m80 - 75kg, mặc áo XL"
+      ]
+    },
+    {
+      "id": 76,
+      "linkImg": [
+        "https://www.coolmate.me/product/quan-the-thao-nam-promax-s1?itm_source=home-highlight-product",
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=85,format=auto/uploads/August2022/Tank_xam_dam_2d.jpg"
+      ],   
+    
+      "size": ["M", "L", "XL", "2XL", "3XL"],     
+      "detailproduct": "Áo sát nách thể thao nam Dri-Breathe thoáng mát tối đa - Xám Xanh",   
+      "main_price":119,
+      "type": "Áo-Tank-top",
+      "sold": "Đã bán(web): 1234", 
+      "sold-tow": "Mua 2 chỉ còn 249k/chiếc",
+      "salientfeatures":[
+        "Chất liệu 95% Cotton Compact - 5% Spandex tạo sự mềm mại và thoáng mát",
+        "ĐỊnh lượng 170gsm mỏng hơn Cotton Compact thường",
+        "Đai lưng may liền, không viền, tạo cảm giác thoải mái và phù hợp với vóc dáng nam giới Việt",
+        "Công nghệ may Flat-out Stream đảm bảo sự co dãn và êm ái nhẹ nhàng cho phần da vùng nhạy cảm",
+        "Tự hào sản xuất tại Việt Nam",
+        "Người mẫu: 1m80 - 75kg, mặc áo XL"
+      ]
+    },
+    {
+      "id": 77,
+      "linkImg": [
+        "https://www.coolmate.me/product/quan-the-thao-nam-promax-s1?itm_source=home-highlight-product",
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=85,format=auto/uploads/November2021/1426x2100_(4).jpg"
+      ],   
+    
+      "size": ["M", "L", "XL", "2XL", "3XL"],     
+      "detailproduct": "Áo sát nách thể thao nam Dri-Breathe thoáng mát tối đa - Trắng",   
+      "main_price":189,
+      "type": "Áo-Tank-top",
+      "sold": "Đã bán(web): 1234", 
+      "sold-tow": "Mua 2 chỉ còn 249k/chiếc",
+      "salientfeatures":[
+        "Chất liệu 95% Cotton Compact - 5% Spandex tạo sự mềm mại và thoáng mát",
+        "ĐỊnh lượng 170gsm mỏng hơn Cotton Compact thường",
+        "Đai lưng may liền, không viền, tạo cảm giác thoải mái và phù hợp với vóc dáng nam giới Việt",
+        "Công nghệ may Flat-out Stream đảm bảo sự co dãn và êm ái nhẹ nhàng cho phần da vùng nhạy cảm",
+        "Tự hào sản xuất tại Việt Nam",
+        "Người mẫu: 1m80 - 75kg, mặc áo XL"
+      ]
+    },
+    {
+      "id": 78,
+      "linkImg": [
+        "https://www.coolmate.me/product/quan-the-thao-nam-promax-s1?itm_source=home-highlight-product",
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=85,format=auto/uploads/October2022/sat-nach-aqua_4.jpg.jpg"
+      ],   
+      "sale":"-25%",
+      "size": ["M", "L", "XL", "2XL", "3XL"],     
+      "detailproduct": "Outlet - Áo sát nách thể thao nam Dri-Breathe thoáng mát tối đa - Xanh Aqua",   
+      "main_price":189,
+      "price_1":990000,
+      "type": "Áo-Tank-top",
+      "sold": "Đã bán(web): 1234", 
+      "sold-tow": "Mua 2 chỉ còn 249k/chiếc",
+      "salientfeatures":[
+        "Chất liệu 95% Cotton Compact - 5% Spandex tạo sự mềm mại và thoáng mát",
+        "ĐỊnh lượng 170gsm mỏng hơn Cotton Compact thường",
+        "Đai lưng may liền, không viền, tạo cảm giác thoải mái và phù hợp với vóc dáng nam giới Việt",
+        "Công nghệ may Flat-out Stream đảm bảo sự co dãn và êm ái nhẹ nhàng cho phần da vùng nhạy cảm",
+        "Tự hào sản xuất tại Việt Nam",
+        "Người mẫu: 1m80 - 75kg, mặc áo XL"
+      ]
+    },
+    {
+      "id": 79,
+      "linkImg": [
+        "https://www.coolmate.me/product/quan-the-thao-nam-promax-s1?itm_source=home-highlight-product",
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=85,format=auto/uploads/August2022/3lo_Navy_1.jpg"
+      ],   
+      "sale":"--45%",
+      "size": ["M", "L", "XL", "2XL", "3XL"],     
+      "detailproduct": "Áo-Tank-top thể thao nam thoáng khí - Xanh Navy",   
+      "main_price":189,
+      "price_1":990000,
+      "type": "Áo-Tank-top",
+      "sold": "Đã bán(web): 1234", 
+     
+      "salientfeatures":[
+        "Chất liệu 95% Cotton Compact - 5% Spandex tạo sự mềm mại và thoáng mát",
+        "ĐỊnh lượng 170gsm mỏng hơn Cotton Compact thường",
+        "Đai lưng may liền, không viền, tạo cảm giác thoải mái và phù hợp với vóc dáng nam giới Việt",
+        "Công nghệ may Flat-out Stream đảm bảo sự co dãn và êm ái nhẹ nhàng cho phần da vùng nhạy cảm",
+        "Tự hào sản xuất tại Việt Nam",
+        "Người mẫu: 1m80 - 75kg, mặc áo XL"
+      ]
+    },
+    {
+      "id": 80,
+      "linkImg": [
+        "https://www.coolmate.me/product/quan-the-thao-nam-promax-s1?itm_source=home-highlight-product",
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=85,format=auto/uploads/April2022/DSC04779-Edit-copy.jpg"
+      ],   
+      "sale":"--45%",
+      "size": ["M", "L", "XL", "2XL", "3XL"],     
+      "detailproduct": "Áo-Tank-top thể thao nam thoáng khí - Đen",   
+      "main_price":189,
+      "price_1":990000,
+      "type": "Áo-Tank-top",
+      "sold": "Đã bán(web): 1234", 
+     
+      "salientfeatures":[
+        "Chất liệu 95% Cotton Compact - 5% Spandex tạo sự mềm mại và thoáng mát",
+        "ĐỊnh lượng 170gsm mỏng hơn Cotton Compact thường",
+        "Đai lưng may liền, không viền, tạo cảm giác thoải mái và phù hợp với vóc dáng nam giới Việt",
+        "Công nghệ may Flat-out Stream đảm bảo sự co dãn và êm ái nhẹ nhàng cho phần da vùng nhạy cảm",
+        "Tự hào sản xuất tại Việt Nam",
+        "Người mẫu: 1m80 - 75kg, mặc áo XL"
+      ]
+    },
+    {
+      "id": 81,
+      "linkImg": [
+        "https://www.coolmate.me/product/quan-the-thao-nam-promax-s1?itm_source=home-highlight-product",
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=85,format=auto/uploads/October2022/17-ss0_64-copy1.jpg"
+      ],   
+      "sale":"-48%",
+      "size": ["M", "L", "XL", "2XL", "3XL"],     
+      "detailproduct": "Outlet - Áo sát nách thể thao nam Dri-Breathe thoáng mát tối đa - Xanh bóng đêm",   
+      "main_price":189,
+      "price_1":990000,
+      "type": "Áo-Tank-top",
+      "sold": "Đã bán(web): 1234", 
+     
+      "salientfeatures":[
+        "Chất liệu 95% Cotton Compact - 5% Spandex tạo sự mềm mại và thoáng mát",
+        "ĐỊnh lượng 170gsm mỏng hơn Cotton Compact thường",
+        "Đai lưng may liền, không viền, tạo cảm giác thoải mái và phù hợp với vóc dáng nam giới Việt",
+        "Công nghệ may Flat-out Stream đảm bảo sự co dãn và êm ái nhẹ nhàng cho phần da vùng nhạy cảm",
+        "Tự hào sản xuất tại Việt Nam",
+        "Người mẫu: 1m80 - 75kg, mặc áo XL"
+      ]
+    },
+    {
+      "id": 82,
+      "linkImg": [
+        "https://www.coolmate.me/product/quan-the-thao-nam-promax-s1?itm_source=home-highlight-product",
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=85,format=auto/uploads/August2022/drinavyy.jpg"
+      ],   
+      "sale":"-48%",
+      "size": ["M", "L", "XL", "2XL", "3XL"],     
+      "detailproduct": "Outlet - Áo sát nách thể thao nam Dri-Breathe thoáng mát tối đa - Xanh Navy",   
+      "main_price":189,
+      "price_1":990000,
+      "type": "Áo-Tank-top",
+      "sold": "Đã bán(web): 1234",    
+      "salientfeatures":[
+        "Chất liệu 95% Cotton Compact - 5% Spandex tạo sự mềm mại và thoáng mát",
+        "ĐỊnh lượng 170gsm mỏng hơn Cotton Compact thường",
+        "Đai lưng may liền, không viền, tạo cảm giác thoải mái và phù hợp với vóc dáng nam giới Việt",
+        "Công nghệ may Flat-out Stream đảm bảo sự co dãn và êm ái nhẹ nhàng cho phần da vùng nhạy cảm",
+        "Tự hào sản xuất tại Việt Nam",
+        "Người mẫu: 1m80 - 75kg, mặc áo XL"
+      ]
+    },
+    {
+      "id": 83,
+      "linkImg": [
+        "https://www.coolmate.me/product/quan-the-thao-nam-promax-s1?itm_source=home-highlight-product",
+        "https://media.coolmate.me/cdn-cgi/image/width=672,height=990,quality=85,format=auto/uploads/November2021/17-0_64-copy1.jpg"
+      ],   
+     
+      "size": ["M", "L", "XL", "2XL", "3XL"],     
+      "detailproduct": "Outlet - Áo sát nách thể thao nam Dri-Breathe thoáng mát tối đa - Xanh Navy",   
+      "main_price":189,
+      
+      "type": "Áo-Tank-top",
+      "sold": "Đã bán(web): 1234", 
+     "sold-tow":"Mua 2 chỉ còn 249k/chiếc",
+      "salientfeatures":[
+        "Chất liệu 95% Cotton Compact - 5% Spandex tạo sự mềm mại và thoáng mát",
+        "ĐỊnh lượng 170gsm mỏng hơn Cotton Compact thường",
+        "Đai lưng may liền, không viền, tạo cảm giác thoải mái và phù hợp với vóc dáng nam giới Việt",
+        "Công nghệ may Flat-out Stream đảm bảo sự co dãn và êm ái nhẹ nhàng cho phần da vùng nhạy cảm",
+        "Tự hào sản xuất tại Việt Nam",
+        "Người mẫu: 1m80 - 75kg, mặc áo XL"
+      ]
+    }
+]
+
+}

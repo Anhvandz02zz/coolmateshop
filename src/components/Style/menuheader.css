@@ -1,0 +1,136 @@
+.menu-top{
+    position: relative;
+    display: flex;
+    width: 100%;
+    margin-top:-15px;
+    border-bottom: 1px solid #D3D3D3;
+    justify-content: space-around;
+    align-items: center;
+    box-sizing: border-box;
+    height: 40px;
+}
+/* left */
+.logo-left{
+    display: flex;
+    align-items: center;
+    height: 40px;
+ }
+ .logo-left img{
+     width: 40px;
+     height: 40px;
+     border-radius: 50%;
+ }
+
+ /* center */
+ .menu-center{
+    display: flex;
+    align-items: center;
+    height: 40px;
+}
+.list-item {
+    display: flex;
+    font-weight: 700;
+    cursor: pointer;
+    height: 40px;
+    align-items: center;
+    margin-top: 20px;
+}
+.childs{
+      display: flex;
+      height: 50vh;
+      flex-direction: column;
+      flex-wrap: wrap;
+      width: auto;
+}
+.childs-menu{
+    display: flex;
+    flex-direction: column;
+}
+.childs-name{
+    font-weight: 600;
+    display: flex;
+    flex-direction: column;
+}
+.child-name-title{
+    display: flex;
+    color: #8e8e8e;
+    font-weight: 700;
+    font-size: 13px;
+}
+.childs-content{
+    font-size: 11px;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    color: #8e8e8e;
+    font-weight: 500;
+    margin-top: -10px;
+}
+
+.product-products{
+    font-size: 11px;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 500;
+    margin-top: -3px;
+    
+}
+
+
+/* right */
+.setting-right{
+    display: flex;
+   align-items: center;
+   height: 40px;
+   justify-content: center;
+   position: relative;
+}
+.setting-right img {
+    width: 20px;
+    height: 20px;
+  display: flex;
+  align-items: center;
+  margin: 20px 10px;
+}
+.product{
+    top: 40px;
+    background-color:#fff;
+    font-weight: 700;
+    height: 340px;
+    display: flex;
+    position: absolute;
+    display: none;
+     z-index: 1; 
+     width: 100%;  
+    right: 0;
+    left: 0;
+    justify-content: center; 
+    justify-content: space-around; 
+}
+li:hover .product{
+    display: flex;
+}
+.childs-title{
+display: flex;
+
+}
+
+.attention{
+    color: white;
+    font-weight: 700;
+    border-radius: 16px;
+    width: 50px;
+    height: 20px;
+    background-color: aqua;
+   text-align: center;
+   }
+   .quantityicon{
+    position: absolute;
+    right: 0;
+    border-radius: 50px;
+    color: white;
+    width: 15px;
+    text-align: center;
+    font-weight: 500;
+    background-color: blue;
+    font-size: 11px;
+   }
